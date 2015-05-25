@@ -32,7 +32,7 @@ rpmfusion-free                           k9copy
 rpmfusion-free                           kaffeine
 D rpmfusion-free                           kdenlive
 rpmfusion-free                           kmediafactory
-rpmfusion-free                           kodi
+D rpmfusion-free                           kodi
 rpmfusion-free                           kodi
 rpmfusion-free                           kplayer
 rpmfusion-free                           kwave
