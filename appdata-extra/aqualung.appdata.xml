@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">aqualung.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>aqualung</name>
+  <summary>Music Player for GNU/Linux</summary>
+  <description>
+    <p>
+        Aqualung is an advanced music player originally targeted at the
+        GNU/Linux operating system, today also running on FreeBSD and OpenBSD,
+        with native ports to Mac OS X and even Microsoft Windows. It plays
+        audio CDs, internet radio streams and podcasts as well as soundfiles in
+        just about any audio format and has the feature of inserting no gaps
+        between adjacent tracks.  
+    </p>
+    <p>
+        Aqualung is a music player designed from the ground up to provide
+        continuous, absolutely transparent, gap-free playback across a variety
+        of input formats and a wide range of sample rates thereby allowing for
+        enjoying quality music: concert recordings and "non-best-of" albums
+        containing gapless transitions between some tracks. (Multiple movements
+        long compositions are often broken into separate but gaplessly flowing
+        tracks when mastered to CD). 
+    </p>
+    <p>
+        Obvious examples are The Song Remains The
+        Same (Led Zeppelin), The Dark Side Of The Moon (Pink Floyd), and
+        Yessongs (Yes). Besides the ability to play the music from these
+        records without a defect, Aqualung provides high quality sample rate
+        conversion, a feature that is essential when building large digital
+        music archives containing input sources conforming to various
+        standards. Aqualung passed our test – and it will pass yours, too.
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://aqualung.factorial.hu/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://aqualung.factorial.hu/screenshots/default.png</screenshot>
+      <screenshot type="default">http://aqualung.factorial.hu/screenshots/woody.png</screenshot>
+      <screenshot type="default">http://aqualung.factorial.hu/screenshots/metal.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
