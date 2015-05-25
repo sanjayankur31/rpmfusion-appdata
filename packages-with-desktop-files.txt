@@ -1,6 +1,6 @@
 D rpmfusion-free                           amule
-rpmfusion-free                           aqualung
-rpmfusion-free                           arcem
+D rpmfusion-free                           aqualung
+D rpmfusion-free                           arcem
 rpmfusion-free                           audacity-freeworld
 rpmfusion-free                           avidemux-gtk
 rpmfusion-free                           avidemux-qt

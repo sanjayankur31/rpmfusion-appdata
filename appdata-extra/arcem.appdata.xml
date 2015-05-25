@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: https://sourceforge.net/p/arcem/bugs/18/
+SentUpstream: 2015-05-25
+-->
+
+<application>
+    <id type="desktop">arcem.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <name>arcem</name>
+    <summary>Highly portable Acorn Archimedes emulator</summary>
+    <description>
+    <p>
+        ArcEm is a portable open-source emulator for the Acorn Archimedes. It's
+        capable of running multiple operating systems including RISC OS and ARM
+        Linux.  
+    </p>
+
+    <p>
+        ArcEm runs on:
+        <ul>
+            <li>Amiga OS</li>
+            <li>Mac OS X</li>
+            <li>Microsoft Windows</li>
+            <li>RISC OS</li>
+            <li>Unix (X Windows)</li>
+        </ul>
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+    </description>
+    <url type="homepage">http://arcem.sourceforge.net/</url>
+    <screenshots>
+        <!-- FIXME: Needs an official up to date screenshot -->
+        <screenshot type="default">http://arcem.sourceforge.net/screenshots/arcemsshot.png</screenshot>
+        <screenshot type="default">http://arcem.sourceforge.net/screenshots/hostfsshot.png</screenshot>
+        <screenshot type="default">http://arcem.sourceforge.net/screenshots/macosx.jpg</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
