@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">bsnes.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>bsnes</name>
+  <summary>SNES emulator focused on accuracy</summary>
+  <description>
+    <p>
+        bsnes is a multi-system emulator that began development on 2004-10-14. It
+        currently supports the following systems:
+    </p>
+    <ul>
+        <li> Nintendo</li>
+        <li> Super Nintendo</li>
+        <li> Game Boy</li>
+        <li> Game Boy Color</li>
+        <li> Game Boy Advance</li>
+        <li> Nintendo DS</li>
+    </ul>
+    <p>
+        bsnes also supports the following subsystems:
+    </p>
+    <ul>
+        <li> Super Game Boy</li>
+        <li> BS-X Satellaview</li>
+        <li> Sufami Turbo</li>
+    </ul>
+    <p>
+        bsnes focuses on accuracy and clean code above all else. It never uses speed or
+        compatibilty hacks. As a result, the minimum system requirements are greater
+        than with other emulators.
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://byuu.org/bsnes/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+  <!--
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  -->
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

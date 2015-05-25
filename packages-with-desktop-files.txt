@@ -6,7 +6,7 @@ rpmfusion-free                           avidemux-gtk
 rpmfusion-free                           avidemux-qt
 D rpmfusion-free                           bino
 rpmfusion-free                           bombono-dvd
-rpmfusion-free                           bsnes
+D rpmfusion-free                           bsnes
 rpmfusion-free                           bubbros
 rpmfusion-free                           desmume
 rpmfusion-free                           desmume-glade
