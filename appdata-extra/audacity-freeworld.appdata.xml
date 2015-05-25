@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">audacity-freeworld.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>audacity-freeworld</name>
+  <summary>Multitrack audio editor</summary>
+  <description>
+    <p>
+        Audacity is a free, easy-to-use, multi-track audio editor and recorder
+        for Windows, Mac OS X, GNU/Linux and other operating systems. The
+        interface is translated into many languages.  </p>
+    <p>
+        Audacity is free software, developed by a group of volunteers and
+        distributed under the GNU General Public License (GPL). Free software
+        is not just free of cost (like "free beer"). It is free as in freedom
+        (like "free speech"). Free software gives you the freedom to use a
+        program, study how it works, improve it and share it with others. For
+        more information, visit the Free Software Foundation.
+
+    </p>
+    <p>
+        Programs like Audacity are also called open source software, because
+        their source code is available for anyone to study or use. There are
+        thousands of other free and open source programs, including the Firefox
+        web browser, the LibreOffice or Apache OpenOffice office suites and
+        entire Linux-based operating systems such as Ubuntu.  </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://audacity.sourceforge.net</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://web.audacityteam.org/about/images/audacity-linux.png</screenshot>
+      <screenshot type="default">http://web.audacityteam.org/about/images/audacity-windows.png</screenshot>
+      <screenshot type="default">http://web.audacityteam.org/about/images/audacity-macosx.png</screenshot>
+  </screenshots>
+  <updatecontact>feedback@audacityteam.org</updatecontact>
+</application>
