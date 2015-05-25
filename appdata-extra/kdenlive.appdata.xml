@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">kdenlive.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>kdenlive</name>
+  <summary>A free and open-source video editor for GNU/Linux and FreeBSD</summary>
+  <description>
+    <p>
+        Kdenlive is an intuitive and powerful multi-track video editor,
+        including most recent video technologies. Our software is completely
+        free, as defined by the GNU foundation. Using Kdenlive is investing in
+        a community driven project, which aims to establish relationships
+        between people in order to built the best video tools.
+    </p>
+    <p>
+        Latest version is Kdenlive 15.04.0, released in April 2015, see
+        announcement. The bugfix version 15.04.1 was released in May 2015.
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://www.kdenlive.org</url>
+  <!-- 
+  <screenshots>
+  -->
+  <!-- FIXME: Needs an official up to date screenshot -->
+  <!-- 
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  </screenshots>
+  -->
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

@@ -30,7 +30,7 @@ rpmfusion-free                           gxine
 rpmfusion-free                           imagination
 rpmfusion-free                           k9copy
 rpmfusion-free                           kaffeine
-rpmfusion-free                           kdenlive
+D rpmfusion-free                           kdenlive
 rpmfusion-free                           kmediafactory
 rpmfusion-free                           kodi
 rpmfusion-free                           kodi
