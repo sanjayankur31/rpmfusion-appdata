@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: https://savannah.nongnu.org/bugs/index.php?45186
+SentUpstream: 2015-05-25
+-->
+
+<application>
+  <id type="desktop">bino.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>bino</name>
+  <summary>3D video player</summary>
+  <description>
+    <p>
+        Bino is a video player with the following main features:
+    </p>
+    <p>
+        Support for stereoscopic 3D video, with a wide variety of input and
+        output formats.  Support for multi-display video, e.g. for powerwalls,
+        Virtual Reality installations and other multi-projector setups.
+    </p>
+    <p>
+        Other advanced features include scriptability, automatic support for
+        high precision color input and output, and support for using two camera
+        devices simultaneously.  
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://bino3d.org</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+  <screenshot type="default">http://bino3d.org/bino-screenshot.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

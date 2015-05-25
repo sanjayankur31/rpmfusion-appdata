@@ -4,7 +4,7 @@ D rpmfusion-free                           arcem
 D rpmfusion-free                           audacity-freeworld
 rpmfusion-free                           avidemux-gtk
 rpmfusion-free                           avidemux-qt
-rpmfusion-free                           bino
+D rpmfusion-free                           bino
 rpmfusion-free                           bombono-dvd
 rpmfusion-free                           bsnes
 rpmfusion-free                           bubbros
