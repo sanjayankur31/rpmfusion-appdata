@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">amule.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Amule</name>
+  <summary>File sharing client compatible with eDonkey</summary>
+  <description>
+    <p>
+        aMule stands for all-platform Mule.
+    </p>
+    <p>
+        aMule is an eMule-like client for the eD2k and Kademlia networks,
+        supporting multiple platforms.  Currently aMule (officially) supports a
+        wide variety of platforms and operating systems, being compatible with
+        more than 60 different hardware+OS configurations.  aMule is entirely
+        free, its sourcecode released under the GPL just like eMule, and
+        includes no adware or spyware as is often found in proprietary P2P
+        applications.  aMule is built upon the wxWidgets (formerly wxWindows)
+        toolkit, which enables it to support multiple platforms. 
+    </p>
+  </description>
+  <url type="homepage">http://www.amule.org/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://upload.wikimedia.org/wikipedia/commons/b/bc/AMule_screenshot.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
