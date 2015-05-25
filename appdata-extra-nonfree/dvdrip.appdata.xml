@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">dvdrip.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>dvdrip</name>
+  <summary>Graphical DVD ripping and encoding tool</summary>
+  <description>
+    <p>
+        dvd::rip is a full featured DVD copy program written in Perl. It
+        provides an easy to use but feature-rich Gtk+ GUI to control almost all
+        aspects of the ripping and transcoding process. It uses the widely
+        known video processing swissknife transcode and many other Open Source
+        tools. dvd::rip itself is licensed under GPL / Perl Artistic License.
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://www.exit1.org/dvdrip/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://www.exit1.org/dvdrip/doc/img/shots/clip_zoom.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

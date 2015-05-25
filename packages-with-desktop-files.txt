@@ -15,7 +15,7 @@ rpmfusion-free                           dosemu
 rpmfusion-free                           dvbcut
 rpmfusion-free                           dvd95
 rpmfusion-free                           DVDAuthorWizard
-rpmfusion-free                           dvdrip
+D rpmfusion-free                           dvdrip
 rpmfusion-free                           DVDRipOMatic
 rpmfusion-free                           dvdstyler
 rpmfusion-free                           fakenes
