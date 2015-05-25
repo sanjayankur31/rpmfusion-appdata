@@ -21,7 +21,7 @@ rpmfusion-free                           dvdstyler
 rpmfusion-free                           fakenes
 rpmfusion-free                           fceux
 rpmfusion-free                           gambatte-qt
-rpmfusion-free                           gltron
+D rpmfusion-free                           gltron
 rpmfusion-free                           gmediafinder
 rpmfusion-free                           gnome-mplayer
 rpmfusion-free                           gtetrinet

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">gltron.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>gltron</name>
+  <summary>A 3D game inspired by the movie TRON</summary>
+  <description>
+    <p>
+        A 3D game inspired by the movie TRON.
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://gltron.org</url>
+  <screenshots>
+      <screenshot type="default">http://gltron.org/screenshots/gltron-0.59-0.png</screenshot>
+      <screenshot type="default">http://gltron.org/screenshots/1-movie.png</screenshot>
+      <screenshot type="default">http://gltron.org/screenshots/gltron-0.59-2.png</screenshot>
+  </screenshots>
+  <updatecontact>marvin@dataway.ch</updatecontact>
+</application>
