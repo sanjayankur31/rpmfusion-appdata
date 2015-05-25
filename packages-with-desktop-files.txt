@@ -78,7 +78,7 @@ rpmfusion-free                           xvst
 rpmfusion-free                           yabause
 rpmfusion-free                           zsnes
 D rpmfusion-nonfree                        abuse
-rpmfusion-nonfree                        assaultcube
+D rpmfusion-nonfree                        assaultcube
 rpmfusion-nonfree                        clipgrab
 rpmfusion-nonfree                        d1x
 rpmfusion-nonfree                        doom-shareware

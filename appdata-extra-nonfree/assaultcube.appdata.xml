@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">assaultcube.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>assaultcube</name>
+  <summary>Total conversion of Cube first person shooter</summary>
+  <description>
+    <p>
+         AssaultCube is a FREE, multiplayer, first-person shooter game, based
+         on the CUBE engine.  
+     </p>
+    <p>
+         Taking place in realistic environments, with fast, arcade gameplay,
+         it's addictive and fun!
+    </p>
+    <p>
+         With efficient bandwidth usage, it's low-latency and can even run over
+         a 56Kbps connection.  It's tiny too, weighing in at a lightweight 40
+         MB package available for Windows, Mac and Linux.  On the correct
+         settings, it can even run on old hardware (Pentium III and above). 
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://assault.cubers.net/index.html</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://assault.cubers.net/screenshots/screenshots-large/ac_complex_DM_gren_large00.jpg</screenshot>
+      <screenshot type="default">http://assault.cubers.net/screenshots/screenshots-large/ac_complex_DM_pist_large00.jpg</screenshot>
+      <screenshot type="default">http://assault.cubers.net/screenshots/screenshots-large/ac_complex_DM_SR_large00.jpg</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
