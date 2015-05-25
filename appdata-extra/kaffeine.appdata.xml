@@ -2,8 +2,8 @@
 <!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
 
 <!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
-BugReportURL: rhbz-#
-SentUpstream: yyyy-mm-dd
+BugReportURL: https://bugs.kde.org/show_bug.cgi?id=348216
+SentUpstream: 2015-05-25
 -->
 
 <application>
