@@ -37,12 +37,9 @@ SentUpstream: yyyy-mm-dd
   </description>
   <url type="homepage">http://wormsofprey.org/</url>
   <screenshots>
-  <!-- FIXME: Needs an official up to date screenshot -->
       <screenshot type="default">http://wormsofprey.org/screenshots/homing_missile.png</screenshot>
       <screenshot type="default">http://wormsofprey.org/screenshots/skwoermtime.png</screenshot>
       <screenshot type="default">http://wormsofprey.org/screenshots/stationary_gun.png</screenshot>
   </screenshots>
-  <!-- FIXME: change this to an upstream email address for spec updates
-  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
-   -->
+  <updatecontact>dev@wormsofprey.org</updatecontact>
 </application>
