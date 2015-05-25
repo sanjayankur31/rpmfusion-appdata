@@ -1,4 +1,4 @@
-rpmfusion-free                           amule
+D rpmfusion-free                           amule
 rpmfusion-free                           aqualung
 rpmfusion-free                           arcem
 rpmfusion-free                           audacity-freeworld
