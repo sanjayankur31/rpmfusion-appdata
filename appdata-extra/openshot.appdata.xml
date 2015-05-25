@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: https://bugs.launchpad.net/openshot/+bug/1458675
+SentUpstream: 2015-05-25
+-->
+
+<application>
+  <id type="desktop">openshot.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>openshot</name>
+  <summary>A GTK based non-linear video editor</summary>
+  <description>
+    <p>
+        OpenShot Video Editor is a free, open-source video editor for Linux
+        licensed under the GPL version 3.0.  
+    </p>
+    <p>
+        OpenShot can take your videos, photos, and music files and help you
+        create the film you have always dreamed of. Easily add sub-titles,
+        transitions, and effects, and then export your film to DVD, YouTube,
+        Vimeo, Xbox 360, and many other common formats.  
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://www.openshotvideo.com/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://www.openshot.org/images/gallery1.png</screenshot>
+      <screenshot type="default">http://www.openshot.org/images/gallery2.png</screenshot>
+      <screenshot type="default">http://www.openshot.org/images/gallery3.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

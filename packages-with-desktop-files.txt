@@ -47,7 +47,7 @@ rpmfusion-free                           mythtv-frontend
 rpmfusion-free                           mythtv-setup
 rpmfusion-free                           Nestopia
 rpmfusion-free                           ogmrip
-rpmfusion-free                           openshot
+D rpmfusion-free                           openshot
 rpmfusion-free                           osmose
 rpmfusion-free                           oxine
 rpmfusion-free                           pangzero
