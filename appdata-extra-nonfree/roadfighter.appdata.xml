@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">roadfighter.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>roadfighter</name>
+  <summary>Konami's Road Fighter remake</summary>
+  <description>
+    <p>
+        This is a remake of a car-based arcade game developed by Konami and released
+        in 1984. The goal is to reach the finish line within the stages without
+        running out of time, hitting other cars or running out of fuel.
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://roadfighter.jorito.net/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://roadfighter.jorito.net/pics/screenshot1.jpg</screenshot>
+      <screenshot type="default">http://roadfighter.jorito.net/pics/screenshot2.jpg</screenshot>
+      <screenshot type="default">http://roadfighter.jorito.net/pics/screenshot3.jpg</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

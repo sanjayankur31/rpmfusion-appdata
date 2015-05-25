@@ -100,7 +100,7 @@ rpmfusion-nonfree                        pgadmin3
 rpmfusion-nonfree                        plus4emu
 rpmfusion-nonfree                        pushover
 rpmfusion-nonfree                        pyskool
-rpmfusion-nonfree                        roadfighter
+D rpmfusion-nonfree                        roadfighter
 rpmfusion-nonfree                        snes9x
 rpmfusion-nonfree                        vice
 rpmfusion-nonfree                        wolf4sdl-registered-apogee
