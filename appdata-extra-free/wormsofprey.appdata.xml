@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">wormsofprey.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Worms of prey</name>
+  <summary>Team based bomb / scorched like game</summary>
+  <description>
+    <p>
+        Wörms of Prey is the new and free real-time Worms game for Linux, MacOS
+        X, and Windows similar to Liero, Liero AI, Liero Extreme, Yet Another Liero
+        Clone, NiL, and Wurmz!
+
+    </p>
+    <p>
+        Features:
+    </p>
+    <ul>
+        <li>Multi-player with one player per computer</li>
+        <li>Completely new graphics</li>
+        <li>Low bandwidth usage</li>
+        <li>Different game modes (death match, team play)</li>
+        <li>Ropes can be attached to any object</li>
+        <li>Rope can be released</li>
+        <li>Any number of ropes</li>
+        <li>Multiple moving goals</li>
+        <li>Free Linux, Windows and MacOS version under GPL license</li>
+    </ul>
+
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://wormsofprey.org/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://wormsofprey.org/screenshots/homing_missile.png</screenshot>
+      <screenshot type="default">http://wormsofprey.org/screenshots/skwoermtime.png</screenshot>
+      <screenshot type="default">http://wormsofprey.org/screenshots/stationary_gun.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

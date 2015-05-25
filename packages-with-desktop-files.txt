@@ -67,7 +67,7 @@ rpmfusion-free                           vbam-gtk
 rpmfusion-free                           VirtualBox
 rpmfusion-free                           vlc
 rpmfusion-free                           vokoscreen
-rpmfusion-free                           wormsofprey
+D rpmfusion-free                           wormsofprey
 rpmfusion-free                           xbill
 rpmfusion-free                           xine-ui
 rpmfusion-free                           xmris
