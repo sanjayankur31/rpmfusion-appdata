@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">kaffeine.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>kaffeine</name>
+  <summary>Kaffeine is a KDE media player</summary>
+  <description>
+    <p>
+        Kaffeine is a media player with support for digital television
+        (DVB-C/S/S2/T and ATSC, decryption with CI/CAM).  
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://kaffeine.kde.org/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">https://www.kde.org/images/screenshots/kaffeine.png</screenshot>
+  </screenshots>
+  <updatecontact>christophpfister@gmail.com</updatecontact>
+</application>

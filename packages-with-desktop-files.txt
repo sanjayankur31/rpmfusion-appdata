@@ -29,7 +29,7 @@ rpmfusion-free                           guvcview
 rpmfusion-free                           gxine
 rpmfusion-free                           imagination
 rpmfusion-free                           k9copy
-rpmfusion-free                           kaffeine
+D rpmfusion-free                           kaffeine
 D rpmfusion-free                           kdenlive
 rpmfusion-free                           kmediafactory
 D rpmfusion-free                           kodi
