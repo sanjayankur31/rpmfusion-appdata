@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">rpmfusion-avidemux-qt.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Avidemux qt</name>
+  <summary>A free video editor designed for simple cutting, filtering and encoding tasks</summary>
+  <description>
+    <p>
+        Avidemux is a free video editor designed for simple cutting, filtering
+        and encoding tasks. It supports many file types, including AVI, DVD
+        compatible MPEG files, MP4 and ASF, using a variety of codecs. Tasks
+        can be automated using projects, job queue and powerful scripting
+        capabilities.
+    </p>
+    <p>
+        Avidemux is a free video editor designed for simple cutting, filtering
+        Avidemux is available for Linux, BSD, Mac OS X and Microsoft Windows
+        under the GNU GPL license. The program was written from scratch by
+        Mean, but code from other people and projects has been used as well.
+        Patches, translations and even bug reports are always welcome.  
+    </p>
+  </description>
+  <url type="homepage">http://avidemux.sourceforge.net/</url>
+  <screenshots>
+      <screenshot type="default">http://avidemux.sourceforge.net/index_files/screenshot1.png</screenshot>
+      <screenshot type="default">http://avidemux.sourceforge.net/index_files/screenshot2.png</screenshot>
+      <screenshot type="default">http://avidemux.sourceforge.net/index_files/screenshot3.png</screenshot>
+      <screenshot type="default">http://avidemux.sourceforge.net/index_files/screenshot4.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>

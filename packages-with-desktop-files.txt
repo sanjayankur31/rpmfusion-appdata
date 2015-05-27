@@ -2,8 +2,8 @@ D rpmfusion-free                           amule
 D rpmfusion-free                           aqualung
 D rpmfusion-free                           arcem
 D rpmfusion-free                           audacity-freeworld
-rpmfusion-free                           avidemux-gtk
-rpmfusion-free                           avidemux-qt
+D rpmfusion-free                           avidemux-gtk
+D rpmfusion-free                           avidemux-qt
 D rpmfusion-free                           bino
 rpmfusion-free                           bombono-dvd
 D rpmfusion-free                           bsnes
