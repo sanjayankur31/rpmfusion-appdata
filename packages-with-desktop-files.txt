@@ -11,7 +11,7 @@ D rpmfusion-free                           bubbros
 D rpmfusion-free                           desmume
 rpmfusion-free                           desmume-glade
 D rpmfusion-free                           devede
-rpmfusion-free                           dosemu
+D rpmfusion-free                           dosemu
 rpmfusion-free                           dvbcut
 rpmfusion-free                           dvd95
 rpmfusion-free                           DVDAuthorWizard
