@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">bubbros.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>bubbros</name>
+  <summary>The Bub's Brothers</summary>
+  <description>
+    <p>
+        This version is a direct clone of the MacOS game Bub &amp; Bob of McSebi.
+        Thanks Sebi for all the cool graphics and sounds!  
+    </p>
+    <p>
+        Features:
+    </p>
+    <ul>
+        <li>1 to 10 players -- the best fun is with at least 3 players!</li>
+        <li>Same gameplay as the famous McSebi's Bub &amp; Bob</li>
+        <li>Over-the-network game and/or up to 3 players on the same computer</li>
+        <li>Completely original crazy bonuses!</li>
+        <li>Capture other players in a bubble!</li>
+        <li>New levels, including a random level generator!</li>
+    </ul>
+  </description>
+  <url type="homepage">http://bub-n-bros.sourceforge.net/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://bub-n-bros.sourceforge.net/images/extend.png</screenshot>
+      <screenshot type="default">http://bub-n-bros.sourceforge.net/images/alone-in-the-world.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

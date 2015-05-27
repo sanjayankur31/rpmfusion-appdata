@@ -7,7 +7,7 @@ D rpmfusion-free                           avidemux-qt
 D rpmfusion-free                           bino
 D rpmfusion-free                           bombono-dvd
 D rpmfusion-free                           bsnes
-rpmfusion-free                           bubbros
+D rpmfusion-free                           bubbros
 rpmfusion-free                           desmume
 rpmfusion-free                           desmume-glade
 rpmfusion-free                           devede
