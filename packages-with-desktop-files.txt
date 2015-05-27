@@ -8,7 +8,7 @@ D rpmfusion-free                           bino
 D rpmfusion-free                           bombono-dvd
 D rpmfusion-free                           bsnes
 D rpmfusion-free                           bubbros
-rpmfusion-free                           desmume
+D rpmfusion-free                           desmume
 rpmfusion-free                           desmume-glade
 rpmfusion-free                           devede
 rpmfusion-free                           dosemu
