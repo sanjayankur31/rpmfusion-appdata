@@ -7,7 +7,7 @@ SentUpstream: yyyy-mm-dd
 -->
 
 <application>
-  <id type="desktop">g.desktop</id>
+  <id type="desktop">kodi.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
   <name>Kodi</name>
   <summary>Media center</summary>
