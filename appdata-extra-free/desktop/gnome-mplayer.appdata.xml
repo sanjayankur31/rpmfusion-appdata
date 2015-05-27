@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">gnome-mplayer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>gnome-mplayer</name>
+  <summary>An MPlayer GUI, a full-featured binary</summary>
+  <description>
+    <p>
+        A GTK2/GTK3 interface to MPlayer. The power of MPlayer combined with a
+        friendly interface for your desktop; You can play all your multimedia
+        (audio, video, CD, DVDs, and VCDs, streams etc.), organize, sort and
+        create playlists, take screenshots while playing videos, be notified
+        about media changes. Full DVD and MKV chapter support, when supported
+        by Mplayer. Subtitle support with the ability to specify preferred
+        audio and subtitle languages if the media supports it. Support for
+        cover art retrieval from Amazon.com for audio media files with artist
+        and/or album information contained in the file.
+    </p>
+
+    <p>
+        The player can be used to play media on websites from your browser when
+        used with Gecko Mediaplayer and is the modern replacement for the
+        mplayerplug-in application.
+    </p>
+
+    <p>
+        Gnome MPlayer has a rich API that is exposed via DBus. Using DBus you
+        can control a single or multiple instances of GNOME MPlayer from a
+        single command.
+    </p>
+
+    <p>
+        Gnome MPlayer is not dependent on any Gnome libraries. However. the
+        look and feel of the application is based on the Gnome HIG. The main
+        dependency is on GTK2, GLIB2 and DBUS. 
+    </p>
+  </description>
+  <url type="homepage">https://sites.google.com/site/kdekorte2/gnomemplayer</url>
+  <!-- FIXME: Needs an official up to date screenshot
+  <screenshots>
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  </screenshots>
+ -->
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

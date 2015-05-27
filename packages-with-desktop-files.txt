@@ -22,8 +22,8 @@ D rpmfusion-free                           fakenes
 D rpmfusion-free                           fceux
 D rpmfusion-free                           gambatte-qt
 D rpmfusion-free                           gltron
-rpmfusion-free                           gmediafinder
-rpmfusion-free                           gnome-mplayer
+X rpmfusion-free                           gmediafinder
+D rpmfusion-free                           gnome-mplayer
 rpmfusion-free                           gtetrinet
 rpmfusion-free                           guvcview
 rpmfusion-free                           gxine
