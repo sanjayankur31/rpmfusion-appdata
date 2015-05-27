@@ -7,7 +7,7 @@ SentUpstream: yyyy-mm-dd
 -->
 
 <application>
-  <id type="desktop">wormsofprey.desktop</id>
+  <id type="desktop">dribble-wormsofprey.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
   <name>Worms of prey</name>
   <summary>Team based bomb / scorched like game</summary>
