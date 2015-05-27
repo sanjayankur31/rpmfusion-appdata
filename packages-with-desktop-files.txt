@@ -10,7 +10,7 @@ D rpmfusion-free                           bsnes
 D rpmfusion-free                           bubbros
 D rpmfusion-free                           desmume
 rpmfusion-free                           desmume-glade
-rpmfusion-free                           devede
+D rpmfusion-free                           devede
 rpmfusion-free                           dosemu
 rpmfusion-free                           dvbcut
 rpmfusion-free                           dvd95

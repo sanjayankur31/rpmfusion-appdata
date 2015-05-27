@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">devede.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>devede</name>
+  <summary>A program to create video DVDs and CDs (VCD, sVCD or CVD)</summary>
+  <description>
+    <p>
+        DevedeNG is a program to create video DVDs and CDs (VCD, sVCD or CVD),
+        suitables for home players, from any number of video files, in any of
+        the formats supported by Mplayer. The big advantage over other utilites
+        is that it only needs Mplayer, Mencoder, FFMpeg, DVDAuthor, VCDImager
+        and MKisofs (well, and Python3, PyGTK and PyGlade), so its dependencies
+        are really small.
+    </p>
+  </description>
+  <url type="homepage">http://www.rastersoft.com/programas/devede.html</url>
+  <!-- FIXME: Needs an official up to date screenshot 
+  <screenshots>
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  </screenshots>
+    -->
+  <updatecontact>raster@rastersoft.com</updatecontact>
+</application>
+
