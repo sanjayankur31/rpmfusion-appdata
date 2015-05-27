@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">gambatte-qt.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>gambatte-qt</name>
+  <summary>Qt4 Gambatte front-end</summary>
+  <description>
+    <p>
+        Gambatte is a portable, open-source Game Boy Color emulator.
+    </p>
+
+    <p>
+        The core emulation code is contained in a separate library backend
+        (libgambatte) written in platform-independent C++. There is currently a Qt GUI
+        frontend (gambatte_qt), and a simplistic command-line interface SDL frontend
+        (gambatte_sdl).
+    </p>
+
+    <p>
+        The Qt frontend has been ported to Windows, Mac OS X, and Linux/BSD/Unix-like
+        OSes with audio/video engines utilizing native APIs on these platforms.
+    </p>
+
+    <p>
+        The SDL frontend should be usable on all platforms with a working SDL port. It
+        should also be quite trivial to create new (simple) frontends (note that the
+        library API should in no way be considered stable).
+    </p>
+  </description>
+  <url type="homepage">https://github.com/sinamas/gambatte</url>
+  <!-- FIXME: Needs an official up to date screenshot 
+  <screenshots>
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  </screenshots>
+-->
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

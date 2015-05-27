@@ -20,7 +20,7 @@ D rpmfusion-free                           DVDRipOMatic
 D rpmfusion-free                           dvdstyler
 D rpmfusion-free                           fakenes
 D rpmfusion-free                           fceux
-rpmfusion-free                           gambatte-qt
+D rpmfusion-free                           gambatte-qt
 D rpmfusion-free                           gltron
 rpmfusion-free                           gmediafinder
 rpmfusion-free                           gnome-mplayer
