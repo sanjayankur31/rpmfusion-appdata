@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">dvd95.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>dvd95</name>
+  <summary>Graphical dvd9 to dvd5 converter</summary>
+  <description>
+    <p>
+        DVD95 is a GNOME application to convert DVD9 to DVD5 (4.7 GB), AVI or
+        PSP files. The user interface is aimed at being simple and elegant to
+        use. DVD95 is free and open-source software licensed under the terms of
+        the GNU GPL v2.
+    </p>
+
+    <p>
+        The shrinking factor may be computed for best results, or an adaptive
+        compression ratio method may be used. DVDs can be converted to a file
+        tree or ISO file. Results can be played back through xine, VLC,
+        mplayer, etc. Burning can be used with the support of third party
+        software (K3B). DVD95 needs no additionnals packages, as an onboard
+        version of vamps and dvdauthor are used, to be as fast as possible.
+    </p>
+    <p>
+        DVD95 is provided "as-is". We cannot be held responsible for the usage
+        of this software. By using DVD95, you confirm that you are using it for
+        fair-use purposes depending on your area.
+    </p>
+  </description>
+  <url type="homepage">http://dvd95.sourceforge.net/</url>
+  <screenshots>
+      <screenshot type="default">http://dvd95.sourceforge.net/images/Capture-DVD%209%20to%205-1.png</screenshot>
+  </screenshots>
+  <updatecontact>jf-coulon at users.sourceforge.net</updatecontact>
+</application>
+
