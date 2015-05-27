@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Name <e-mail addresss> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">bombono-dvd.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>bombono-dvd</name>
+  <summary>DVD authoring program with nice and clean GUI</summary>
+  <description>
+      <p>
+          Bombono DVD is a DVD authoring program for personal computers. It is made easy to use and has nice and clean GUI (Gtk).
+
+          The main features of Bombono DVD are:
+      </p>
+      <ul>
+          <li>Excellent video viewer: Timeline and Monitor</li>
+          <li></li>
+          <li>Real WYSIWYG Menu Editor with live thumbnails</li>
+          <li></li>
+          <li>Comfortable Drag-n-Drop support</li>
+          <li>Transcoding, if necessary (from AVI/MKV/MOV/MPEG4...)</li>
+          <li>Motion menus</li>
+          <li>Subtitles support</li>
+          <li>You can author to folder, make ISO-image or burn directly to DVD</li>
+          <li>Reauthoring: you can import video from DVD discs </li>
+      </ul>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://www.bombono.org/</url>
+  <screenshots>
+      <screenshot type="default">http://www.bombono.org/cgi-bin/wiki/Screenshots?action=AttachFile&amp;do=get&amp;target=ski.png</screenshot>
+      <screenshot type="default">http://www.bombono.org/cgi-bin/wiki/Screenshots?action=AttachFile&amp;do=get&amp;target=BombonoDVD-0.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
