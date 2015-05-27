@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">dvbcut.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>dvbcut</name>
+  <summary>Clip and convert DVB transport streams to MPEG2 program streams</summary>
+  <description>
+    <p>
+        dvbcut is a Qt application that allows you to select certain parts of
+        an MPEG transport stream (as received via Digital Video Broadcasting,
+        DVB) and save these parts into a single MPEG output file. It follows a
+        "keyhole surgery" approach where the input video and audio data is
+        mostly kept unchanged, and only very few frames at the beginning and/or
+        end of the selected range are re-encoded in order to obtain a valid
+        MPEG file.
+    </p>
+
+    <p>
+        dvbcut needs to create index information on an MPEG file first.
+        Therefore, when loading an MPEG transport stream file, it also asks you
+        for a filename of an index file. If you choose an existing file, it is
+        loaded and used as index if suitable. (That means, that dvbcut performs
+        some sanity checks on the index itself and also checks if the index
+        describes the chosen MPEG file.) If you select a file which does not
+        yet exist, dvbcut creates the necessary index in place.
+    </p>
+
+    <p>
+        After opening the MPEG file, you can navigate through the video by
+        means of a linear and a log scale slider. While the first represents
+        the whole video, the latter enables you to precisely select frames
+        close to the current frame. At any place in the video, you can add
+        START, STOP, CHAPTER and BOOKMARK markers. Markers are shown in the
+        list on the left. With the START and STOP markers you determine what
+        parts of the video you want to write to a new file. dvbcut starts at
+        the first START marker and proceeds until it encounters a STOP marker.
+    </p>
+
+    <p>
+        If there are more START markers after that STOP, it will continue at
+        the next START marker, and so on. Every START marker, which follows a
+        START with no STOP inbetween, is meaningless. So is a STOP marker
+        before the first START or after another STOP (with no START inbetween).
+    </p>
+  </description>
+  <url type="homepage">http://dvbcut.sourceforge.net/index.html</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://sourceforge.net/p/dvbcut/screenshot/47238.jpg</screenshot>
+      <screenshot type="default">http://sourceforge.net/p/dvbcut/screenshot/48241.jpg</screenshot>
+  </screenshots>
+  <updatecontact>svenover@svenover.de</updatecontact>
+</application>
+

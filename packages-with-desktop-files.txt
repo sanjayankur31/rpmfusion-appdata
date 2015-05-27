@@ -12,7 +12,7 @@ D rpmfusion-free                           desmume
 rpmfusion-free                           desmume-glade
 D rpmfusion-free                           devede
 D rpmfusion-free                           dosemu
-rpmfusion-free                           dvbcut
+D rpmfusion-free                           dvbcut
 rpmfusion-free                           dvd95
 rpmfusion-free                           DVDAuthorWizard
 D rpmfusion-free                           dvdrip
