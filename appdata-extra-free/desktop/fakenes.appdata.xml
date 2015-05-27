@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">fakenes.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>fakenes</name>
+  <summary>Nintendo Entertainment System emulator</summary>
+  <description>
+      <p>
+          FakeNES is a highly portable, Open Source NES and Famicom emulator.
+      </p>
+
+      <p>
+          It runs on all modern operating systems (such as Windows, Linux, and
+          Mac) and has an actively maintained DOS port for enthusiasts. Support
+          for phones and other mobile platforms is under development.
+      </p>
+
+      <p>
+          Originally created in 2001 by a rag-tag team of developers from
+          projects such as ZSNES, after ten years of sporadic development it
+          has been forked by Digital Carat Group and almost completely
+          rewritten. It has also been renamed to FakeNES GT, meaning "Good
+          Times", to distinguish it from the original project.
+
+      </p>
+  </description>
+  <url type="homepage">http://fakenes.sourceforge.net/</url>
+  <screenshots>
+      <screenshot type="default">http://fakenes.sourceforge.net/svn/images/screenshot.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

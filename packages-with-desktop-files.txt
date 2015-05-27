@@ -18,7 +18,7 @@ D rpmfusion-free                           DVDAuthorWizard
 D rpmfusion-free                           dvdrip
 D rpmfusion-free                           DVDRipOMatic
 D rpmfusion-free                           dvdstyler
-rpmfusion-free                           fakenes
+D rpmfusion-free                           fakenes
 rpmfusion-free                           fceux
 rpmfusion-free                           gambatte-qt
 D rpmfusion-free                           gltron
