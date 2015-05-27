@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">fceux.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>fceux</name>
+  <summary>A cross platform, NTSC and PAL Famicom/NES emulator</summary>
+  <description>
+    <p>
+        FCEUX is a Nintendo Entertainment System (NES), Famicom, and Famicom
+        Disk System (FDS) emulator. It supports both PAL (European) and NTSC
+        (USA/JPN) modes. It supports both Windows and SDL versions for cross
+        compatibility.
+    </p>
+
+    <p>
+        The FCEUX concept is that of an "all in one" emulator that offers
+        accurate emulation and the best options for both casual play and a
+        variety of more advanced emulator functions. For pro users, FCEUX
+        offers tools for debugging, rom-hacking, map making, Tool-assisted
+        movies, and Lua scripting.
+    </p>
+
+    <p>
+        FCEUX is an evolution of the original FCE Ultra emulator. Over time FCE
+        Ultra had separated into many distinct branches.
+        The concept behind FCEUX is to merge elements from FCEU Ultra, FCEU
+        rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE, and FCEU-mm into a single
+        branch of FCEU.
+    </p>
+    <p>
+        As the X implies, it is an all-encompassing version of the FCEU
+        emulator that provides the best of all worlds for the general player,
+        the ROM-hacking community, and the Tool-Assisted Speedrun Community.
+    </p>
+  </description>
+  <url type="homepage">http://www.upstreamurl.com/</url>
+  <screenshots>
+      <screenshot type="default">http://www.fceux.com/web/assets/FCEUX-main.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
