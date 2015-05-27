@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha@fedoraproject.org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">DVDRipOMatic.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>DVDRipOMatic</name>
+  <summary>Simple DVD to XviD ripping application</summary>
+  <description>
+    <p>
+        A wizard-style GUI frontend to MEncoder, for creating backup copies of
+        DVD disks to XviD format. The wizard is designed to be very easy to
+        use, no technical knowledge required. The optimal settings are
+        autodetected and should produce high quality output.
+    </p>
+  </description>
+  <url type="homepage">http://dvdripomatic.sourceforge.net</url>
+  <!-- FIXME: Needs an official up to date screenshot
+  <screenshots>
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  </screenshots>
+ -->
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

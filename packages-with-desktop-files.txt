@@ -16,7 +16,7 @@ D rpmfusion-free                           dvbcut
 D rpmfusion-free                           dvd95
 D rpmfusion-free                           DVDAuthorWizard
 D rpmfusion-free                           dvdrip
-rpmfusion-free                           DVDRipOMatic
+D rpmfusion-free                           DVDRipOMatic
 rpmfusion-free                           dvdstyler
 rpmfusion-free                           fakenes
 rpmfusion-free                           fceux
