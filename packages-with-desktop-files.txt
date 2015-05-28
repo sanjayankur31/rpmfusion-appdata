@@ -113,5 +113,5 @@ X rpmfusion-nonfree                        xorg-x11-drv-nvidia
 X rpmfusion-nonfree                        xorg-x11-drv-nvidia-304xx
 X rpmfusion-nonfree                        xorg-x11-drv-nvidia-340xx
 D rpmfusion-nonfree                        xrick
-rpmfusion-nonfree                        xv
-rpmfusion-nonfree                        yapeSDL
+? rpmfusion-nonfree                        xv
+D rpmfusion-nonfree                        yapeSDL

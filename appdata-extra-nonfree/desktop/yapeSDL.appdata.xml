@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">yapeSDL.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Yet another plus/4 emulator</summary>
+    <description>
+        <p>
+            YAPE is a rather decent plus/4 emulator. It has been developed for
+            several years by now and it is available in Windows and
+            multiplatform editions, although the latter lags several versions
+            behind the first.
+        </p>
+    </description>
+    <url type="homepage">http://yape.plus4.net/</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <updatecontact>gyros@freemail.hu</updatecontact>
+</application>
+
