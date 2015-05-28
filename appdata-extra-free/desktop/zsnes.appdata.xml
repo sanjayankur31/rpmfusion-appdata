@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">zsnes.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>A Super Nintendo emulator</summary>
+    <description>
+        <p>
+            This is an emulator for Nintendo's 16 bit console, called Super
+            Nintendo Entertainment System or Super Famicom. It features a
+            pretty accurate emulation of that system's graphic and sound
+            capabilities.  The GUI enables the user to select games, change
+            options, enable cheat codes and to save the game state, even
+            network play is possible.
+        </p>
+    </description>
+    <url type="homepage">http://www.zsnes.com/</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

@@ -76,7 +76,7 @@ D rpmfusion-free                           xroar
 X rpmfusion-free                           xvid4conf
 D rpmfusion-free                           xvst
 D rpmfusion-free                           yabause
-rpmfusion-free                           zsnes
+D rpmfusion-free                           zsnes
 D rpmfusion-nonfree                        abuse
 D rpmfusion-nonfree                        assaultcube
 rpmfusion-nonfree                        clipgrab
