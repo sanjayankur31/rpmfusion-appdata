@@ -102,13 +102,13 @@ D rpmfusion-nonfree                        pushover
 A rpmfusion-nonfree                        pyskool
 D rpmfusion-nonfree                        roadfighter
 D rpmfusion-nonfree                        snes9x
-rpmfusion-nonfree                        vice
-rpmfusion-nonfree                        wolf4sdl-registered-apogee
-rpmfusion-nonfree                        wolf4sdl-registered-id
-rpmfusion-nonfree                        wolf4sdl-shareware
-rpmfusion-nonfree                        wolf4sdl-spear
-rpmfusion-nonfree                        wolf4sdl-spear-demo
-rpmfusion-nonfree                        xcpc
+? rpmfusion-nonfree                        vice
+I rpmfusion-nonfree                        wolf4sdl-registered-apogee
+I rpmfusion-nonfree                        wolf4sdl-registered-id
+I rpmfusion-nonfree                        wolf4sdl-shareware
+I rpmfusion-nonfree                        wolf4sdl-spear
+I rpmfusion-nonfree                        wolf4sdl-spear-demo
+D rpmfusion-nonfree                        xcpc
 rpmfusion-nonfree                        xorg-x11-drv-nvidia
 rpmfusion-nonfree                        xorg-x11-drv-nvidia-304xx
 rpmfusion-nonfree                        xorg-x11-drv-nvidia-340xx

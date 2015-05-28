@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">xcpc.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A portable Amstrad CPC464/CPC664/CPC6128 Emulator written in C</summary>
+  <description>
+    <p>
+        CPC is a portable Amstrad CPC 464/664/6128 emulator written in C.
+    </p>
+    <p>
+        XCPC is designed to run on any POSIX compliant system, including Unix,
+        Linux, BSD and having an X11 server. 
+    </p>
+  </description>
+  <url type="homepage">http://xcpc.sourceforge.net/</url>
+  <screenshots>
+      <screenshot type="default">http://www.xcpc-emulator.net/lib/exe/fetch.php/xcpc:screenshots:xcpc-athena-0001.png?w=733&amp;h=600&amp;tok=f1c3a5</screenshot>
+      <screenshot type="default">http://www.xcpc-emulator.net/lib/exe/fetch.php/xcpc:screenshots:xcpc-athena-0005.png?w=733&amp;h=600&amp;tok=a475dd</screenshot>
+      <screenshot type="default">http://www.xcpc-emulator.net/lib/exe/fetch.php/xcpc:screenshots:xcpc-athena-0010.png?w=733&amp;h=600&amp;tok=b73d25</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
