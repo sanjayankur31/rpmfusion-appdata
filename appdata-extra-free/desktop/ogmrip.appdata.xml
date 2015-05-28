@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">ogmrip.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>DVD ripping and encoding graphical user interface</summary>
+    <description>
+        <p>
+            OGMRip is an application and a set of libraries for ripping and
+            encoding DVD into AVI, OGM, MP4, or Matroska files using a wide
+            variety of codecs. It relies on mplayer, mencoder, ogmtools,
+            mkvtoolnix, mp4box, oggenc, lame, and faac to perform its tasks.
+
+            The GUI features a clean HIG-compliant GNOME 2 interface and tries
+            to minimize as much as possible esoteric settings.
+
+            Features:
+        </p>
+        <ul>
+            <li>Transcodes from DVD or files</li>
+            <li>Outputs OGM, AVI, MP4, or Matroska files</li>
+            <li>Supports a lot of codecs (Vorbis, MP3, PCM, AC3, DTS, AAC, XviD, LAVC, X264, Theora)</li>
+            <li>Calculates video bitrate for a given file size</li>
+            <li>Autodetects cropping parameters and scaling factors</li>
+            <li>Supports multiple audio and subtitles streams encoding</li>
+            <li>Extracts subtitles in SRT or VobSub format</li>
+            <li>Uses maximum quality codecs switches</li>
+            <li>Rips contiguous chapters</li>
+            <li>Supports external audio (PCM, MP3, AC3, DTS, AAC, Vorbis)</li>
+            <li>Subtitles (MicroDVD, SubRip, SRT, Sami, VPlayer, RT, SSA, PJS, MPSub, AQT, JacoSub, VobSub)</li>
+            <li>Provides customisable encoding profiles</li>
+            <li>Is extensible through plugins</li>
+        </ul>
+
+    </description>
+    <url type="homepage">http://ogmrip.sourceforge.net/</url>
+    <screenshots>
+        <screenshot type="default">http://ogmrip.sourceforge.net/en/shots/ogmrip-main.png</screenshot>
+        <screenshot type="default">http://ogmrip.sourceforge.net/en/shots/ogmrip-pref-general.png</screenshot>
+        <screenshot type="default">http://ogmrip.sourceforge.net/en/shots/ogmrip-pref-advanced.png</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
