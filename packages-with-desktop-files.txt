@@ -39,7 +39,7 @@ D rpmfusion-free                           kwave
 D rpmfusion-free                           ltris
 D rpmfusion-free                           lxdream
 D rpmfusion-free                           megamario
-rpmfusion-free                           minitube
+D rpmfusion-free                           minitube
 rpmfusion-free                           mixxx
 rpmfusion-free                           mplayer-gui
 rpmfusion-free                           mpv

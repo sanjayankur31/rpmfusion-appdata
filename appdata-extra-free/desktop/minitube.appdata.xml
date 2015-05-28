@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">minitube.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <name>minitube</name>
+    <summary>A YouTube desktop client</summary>
+    <description>
+        <p>
+            Watch YouTube videos in a new way: you type a keyword, Minitube
+            gives you an endless video stream.  Minitube is not about cloning
+            the YouTube website, it aims to create a new TV-like experience
+
+
+            Minitube features Minitube focuses on a pleasing overall
+            experience, not on having tons of features. Anyway here's a list:
+        </p>
+        <ul>
+            <li>Channel subscriptions without using a YouTube account</li>
+            <li>Compact mode: a small, always-on-top window</li>
+            <li>Find missing parts of a multipart video</li>
+            <li>Take video snapshots at full resolution</li>
+            <li>Editable playlist: drag'n'drop and remove videos</li>
+            <li>Stop after this video: "Last one, kids!"</li>
+            <li>Sort videos by relevance, date, view count and rating</li>
+            <li>Filter videos by publication date, video duration and video quality</li>
+            <li>Search by keyword, channel name or paste a YouTube link. Suggestions while typing</li>
+            <li>Remembers recent keywords and channels. These can be cleared if needed.</li>
+            <li>YouTube categories: “Most Popular”, “Music”, “Games”, etc.</li>
+            <li>Related videos</li>
+            <li>Fullscreen mode: mouse cursor, toolbar and playlist autohide</li>
+            <li>Copy YouTube link to clipboard</li>
+            <li>Share on Facebook, Twitter or via email</li>
+            <li>Translated to more than 30 languages including German, French, Italian, and others</li>
+        </ul>
+    </description>
+    <url type="homepage">http://flavio.tordini.org/minitube</url>
+    <screenshots>
+        <screenshot type="default">http://flavio.tordini.org/files/minitube/minitube-01.jpg</screenshot>
+        <screenshot type="default">http://flavio.tordini.org/files/minitube/minitube-02.jpg</screenshot>
+        <screenshot type="default">http://flavio.tordini.org/files/minitube/minitube-03.jpg</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
