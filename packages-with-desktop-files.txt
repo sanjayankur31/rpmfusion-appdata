@@ -85,7 +85,7 @@ D rpmfusion-nonfree                        doom-shareware
 X rpmfusion-nonfree                        dropbox
 D rpmfusion-nonfree                        e-uae
 D rpmfusion-nonfree                        Frodo
-rpmfusion-nonfree                        frogatto
+D rpmfusion-nonfree                        frogatto
 rpmfusion-nonfree                        fuse-emulator-roms
 rpmfusion-nonfree                        gmameui
 rpmfusion-nonfree                        gsview

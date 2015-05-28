@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">frogatto.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>An old-school 2D platform game</summary>
+  <description>
+    <p>
+        Frogatto is an action-adventure “platformer” game starring a certain
+        green dude. We could get a bit loquacious describing the game here, but
+        you’re better off looking at some pictures; they ought to give you a
+        sense of what it’s all about.
+    </p>
+    <p>
+        Although frogatto is finished and fully-playable, we’re planning some
+        major additions to the game over the next few years.
+    </p>
+  </description>
+  <url type="homepage">http://www.frogatto.com/</url>
+  <screenshots>
+      <screenshot type="default">http://www.frogatto.com/screenshot_imgs/v_1_3/airplane_boss.png</screenshot>
+      <screenshot type="default">http://www.frogatto.com/screenshot_imgs/v_1_3/bombing_fools.png</screenshot>
+      <screenshot type="default">http://www.frogatto.com/screenshot_imgs/v_1_3/caverns_of_holes.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
