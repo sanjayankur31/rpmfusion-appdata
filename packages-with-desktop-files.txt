@@ -50,7 +50,7 @@ D rpmfusion-free                           ogmrip
 D rpmfusion-free                           openshot
 D rpmfusion-free                           osmose
 D rpmfusion-free                           oxine
-rpmfusion-free                           pangzero
+D rpmfusion-free                           pangzero
 rpmfusion-free                           pcsxr
 rpmfusion-free                           pithos
 rpmfusion-free                           ProjectX

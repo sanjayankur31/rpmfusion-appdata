@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">pangzero.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A clone and enhancement of Super Pang</summary>
+  <description>
+    <p>
+         Pang Zero is a clone and enhancement of Super Pang, a fast-paced
+         action game that involves popping balloons with a harpoon.
+    </p>
+    <p>
+         The intention of our effort is to create a fun, open-source game that
+         many (currently up to 6) people can play together. The game is
+         playable, you can try it now. It's free, we made it because we like to
+         share the fun. You can play Pang Zero alone, but it's a lot more fun
+         to play with your friends.
+     </p>
+  </description>
+  <url type="homepage">http://apocalypse.rulez.org/pangzero</url>
+  <screenshots>
+      <screenshot type="default">http://apocalypse.rulez.org/kozosfiles/upipang11/santa018.jpg</screenshot>
+      <screenshot type="default">http://apocalypse.rulez.org/kozosfiles/upipang11/miki017.png</screenshot>
+      <screenshot type="default">http://apocalypse.rulez.org/kozosfiles/upipang11/earthquake_alert.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
