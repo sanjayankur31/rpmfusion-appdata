@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">q_arte.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>A browser for arte.tv web site</summary>
+    <description>
+        <p>
+            Qarte allow you to browse into the archiv of arte+7 &amp; arteLiveWeb sites
+            and to record your prefered videos.  
+        </p>
+    </description>
+    <url type="homepage">https://launchpad.net/qarte</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

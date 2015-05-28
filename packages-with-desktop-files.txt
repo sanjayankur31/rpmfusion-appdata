@@ -54,7 +54,7 @@ D rpmfusion-free                           pangzero
 D rpmfusion-free                           pcsxr
 D rpmfusion-free                           pithos
 D rpmfusion-free                           ProjectX
-rpmfusion-free                           qarte
+D rpmfusion-free                           qarte
 rpmfusion-free                           SheepShaver
 rpmfusion-free                           smc
 rpmfusion-free                           smplayer
