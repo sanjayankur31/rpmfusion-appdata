@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">stella.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A multi-platform Atari 2600 Video Computer System emulator</summary>
+  <description>
+    <p>
+        The Atari 2600 Video Computer System (VCS), introduced in 1977, was the
+        most popular home video game system of the early 1980's.  Now you can
+        enjoy all of your favorite Atari 2600 games on your PC thanks to
+        Stella!
+    </p>
+
+    <p>
+        Stella is a multi-platform Atari 2600 VCS emulator released under the
+        GNU General Public License (GPL). Stella was originally developed for
+        Linux by Bradford W. Mott, and is currently maintained by Stephen
+        Anthony. Since its original release several people have joined the
+        development team to port Stella to other operating systems such as
+        AcornOS, AmigaOS, DOS, FreeBSD, IRIX, Linux, OS/2, MacOS, Unix, and
+        Windows. The development team is working hard to perfect the emulator
+        and we hope you enjoy our effort.
+    </p>
+  </description>
+  <url type="homepage">http://stella.sourceforge.net</url>
+  <screenshots>
+      <screenshot type="default">http://stella.sourceforge.net/game-images/chopper_command.png</screenshot>
+      <screenshot type="default">http://stella.sourceforge.net/game-images/keystone.png</screenshot>
+      <screenshot type="default">http://stella.sourceforge.net/game-images/launcher.png</screenshot>
+      <screenshot type="default">http://stella.sourceforge.net/game-images/hero.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
