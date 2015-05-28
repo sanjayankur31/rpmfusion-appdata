@@ -43,7 +43,7 @@ D rpmfusion-free                           minitube
 D rpmfusion-free                           mixxx
 D rpmfusion-free                           mplayer-gui
 D rpmfusion-free                           mpv
-rpmfusion-free                           mythtv-frontend
+D rpmfusion-free                           mythtv-frontend
 rpmfusion-free                           mythtv-setup
 rpmfusion-free                           Nestopia
 rpmfusion-free                           ogmrip
