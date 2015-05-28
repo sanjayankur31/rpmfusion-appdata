@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">SheepShaver.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>An open source PowerMac emulator</summary>
+    <description>
+        <p>
+            SheepShaver is a MacOS run-time environment for BeOS and Linux that
+            allows you to run classic MacOS applications inside the BeOS/Linux
+            multitasking environment. This means that both BeOS/Linux and MacOS
+            applications can run at the same time (usually in a window on the
+            BeOS/Linux desktop) and data can be exchanged between them. If you are
+            using a PowerPC-based system, applications will run at native speed
+            (i.e. with no emulation involved). There is also a built-in PowerPC
+            emulator for non-PowerPC systems.
+        </p>
+
+        <p>
+            SheepShaver is distributed under the terms of the GNU General Public
+            License (GPL). However, you still need a copy of MacOS and a PowerMac
+            ROM image to use SheepShaver. If you're planning to run SheepShaver on
+            a PowerMac, you probably already have these two items. 
+
+            Features:
+        </p>
+        <ul>
+
+            <li>Runs MacOS 7.5.2 thru 9.0.4. MacOS X as a guest is not supported</li>
+            <li>Color video display</li>
+            <li>CD quality sound output</li>
+            <li>Access to floppy disks, CD-ROMs and HFS(+) partitions on hard disks</li>
+            <li>Easy file exchange with the host OS via a "Host Directory Tree" icon on the Mac desktop</li>
+            <li>Internet and LAN networking via Ethernet</li>
+            <li>Serial drivers</li>
+            <li>SCSI Manager (old-style) emulation </li>
+        </ul>
+    </description>
+    <url type="homepage">http://sheepshaver.cebix.net/</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
