@@ -99,9 +99,9 @@ X rpmfusion-nonfree                        openclonk-devel-docs
 I rpmfusion-nonfree                        pgadmin3
 D rpmfusion-nonfree                        plus4emu
 D rpmfusion-nonfree                        pushover
-rpmfusion-nonfree                        pyskool
+A rpmfusion-nonfree                        pyskool
 D rpmfusion-nonfree                        roadfighter
-rpmfusion-nonfree                        snes9x
+D rpmfusion-nonfree                        snes9x
 rpmfusion-nonfree                        vice
 rpmfusion-nonfree                        wolf4sdl-registered-apogee
 rpmfusion-nonfree                        wolf4sdl-registered-id
