@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">NAME.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>GUI for MPlayer</summary>
+  <description>
+    <p>
+        Player is a movie player which runs on many systems (see the
+        documentation). It plays most MPEG/VOB, AVI, Ogg/OGM, VIVO,
+        ASF/WMA/WMV, QT/MOV/MP4, RealMedia, Matroska, NUT, NuppelVideo, FLI,
+        YUV4MPEG, FILM, RoQ, PVA files, supported by many native, XAnim, and
+        Win32 DLL codecs. You can watch VideoCD, SVCD, DVD, 3ivx, DivX 3/4/5,
+        WMV and even H.264 movies.
+    </p>
+
+    <p>
+        Another great feature of MPlayer is the wide range of supported output
+        drivers. It works with X11, Xv, DGA, OpenGL, SVGAlib, fbdev, AAlib,
+        DirectFB, but you can use GGI, SDL (and this way all their drivers),
+        VESA (on every VESA compatible card, even without X11!) and some low
+        level card-specific drivers (for Matrox, 3Dfx and ATI), too! Most of
+        them support software or hardware scaling, so you can enjoy movies in
+        fullscreen. MPlayer supports displaying through some hardware MPEG
+        decoder boards, such as the Siemens DVB, DXR2 and DXR3/Hollywood+.
+    </p>
+
+    <p>
+        MPlayer has an onscreen display (OSD) for status information, nice big
+        antialiased shaded subtitles and visual feedback for keyboard controls.
+        European/ISO 8859-1,2 (Hungarian, English, Czech, etc), Cyrillic and
+        Korean fonts are supported along with 12 subtitle formats (MicroDVD,
+        SubRip, OGM, SubViewer, Sami, VPlayer, RT, SSA, AQTitle, JACOsub, PJS
+        and our own: MPsub). DVD subtitles (SPU streams, VOBsub and Closed
+        Captions) are supported as well.
+    </p>
+  </description>
+  <url type="homepage">http://www.mplayerhq.hu/</url>
+  <screenshots>
+      <screenshot type="default">http://www.mplayerhq.hu/images/screenshots/kutfejek-01.jpg</screenshot>
+      <screenshot type="default">http://www.mplayerhq.hu/images/screenshots/xgl-compiz-01.jpg</screenshot>
+      <screenshot type="default">http://www.mplayerhq.hu/images/screenshots/osd-menu-01.jpg</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
