@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">d1x-rebirth.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Descent 1 game engine (d1x-rebirth version)</summary>
+    <description>
+        <p>
+            D1X is a modification of the Descent 1 source that was released by
+            Parallax. It's mostly compatible with the Descent 1 v1.5, both in
+            multiplayer and on the local machine.
+        </p>
+        <p>
+            D1X is a modification of the Descent 1 source that was released by
+            To play Descent1 you need to either need the full
+            (registered/commercial) version of the game and place the full
+            version data-files in /usr/share/d1x/full; or install the
+            d1x-shareware package.
+        </p>
+    </description>
+    <url type="homepage">http://www.dxx-rebirth.com/</url>
+    <screenshots>
+        <screenshot type="default">http://www.dxx-rebirth.com/wp-content/gallery/d1x-rebirth_screenshots/d1xr-scrn1.jpg</screenshot>
+        <screenshot type="default">http://www.dxx-rebirth.com/wp-content/gallery/d1x-rebirth_screenshots/d1xr-scrn10.jpg</screenshot>
+        <screenshot type="default">http://www.dxx-rebirth.com/wp-content/gallery/d1x-rebirth_screenshots/d1xr-scrn16.jpg</screenshot>
+        <screenshot type="default">http://www.dxx-rebirth.com/wp-content/gallery/d1x-rebirth_screenshots/d1xr-scrn27.jpg</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
