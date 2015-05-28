@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">kmediafactory.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>kmediafactory</name>
+  <summary>A template based DVD authoring tool</summary>
+  <description>
+    <p>
+        KMediaFactory is easy to use template based dvd authoring tool. You can
+        quickly create DVD menus for home videos and TV recordings in three
+        simple steps.  
+    </p>
+    <p>
+        Step 1: Select media:
+    </p>
+    <ul>
+
+        <li>Add DVD compatible MPEG2 videos</li>
+        <li>Import JPG, PNG files as slideshows</li>
+        <li>Import PDF, ODP and other office documents as slideshows</li>
+    </ul>
+
+    <p>
+        Step 2: Select template:
+    </p>
+
+    <ul>
+        <li>Select look for the menus</li>
+        <li>Multiple templates to choose from</li>
+    </ul>
+
+    <p>
+        Step 3: Select output type:
+    </p>
+
+    <ul>
+        <li>Output dvdauthor project</li>
+        <li>Output DVD video directory This can be watched with eg. Xine or burned to DVD with eg. k3b.</li>
+        <li>Output k3b project</li> 
+    </ul>
+  </description>
+  <url type="homepage">http://code.google.com/p/kmediafactory/</url>
+  <screenshots>
+      <screenshot type="default">http://kde-apps.org/CONTENT/content-pre1/20121-1.png</screenshot>
+      <screenshot type="default">http://kde-apps.org/CONTENT/content-pre2/20121-2.png</screenshot>
+      <screenshot type="default">http://kde-apps.org/CONTENT/content-pre3/20121-3.png</screenshot>
+  </screenshots>
+  <updatecontact>petri.damsten@iki.fi</updatecontact>
+</application>
+
