@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">lxdream.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>lxdream</name>
+  <summary>Sega Dreamcast emulator</summary>
+  <description>
+    <p>
+         Lxdream is an emulator for the Sega Dreamcast system, running on Linux
+         and OS X. While it is still in heavy development (and many features
+         are buggy or unimplemented), it is capable of running most demos and
+         some games. 
+    </p>
+  </description>
+  <url type="homepage">http://www.lxdream.org</url>
+  <!-- FIXME: Needs an official up to date screenshot 
+  <screenshots>
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  </screenshots>
+-->
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

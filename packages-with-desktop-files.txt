@@ -37,7 +37,7 @@ rpmfusion-free                           kodi
 D rpmfusion-free                           kplayer
 D rpmfusion-free                           kwave
 D rpmfusion-free                           ltris
-rpmfusion-free                           lxdream
+D rpmfusion-free                           lxdream
 rpmfusion-free                           megamario
 rpmfusion-free                           minitube
 rpmfusion-free                           mixxx
