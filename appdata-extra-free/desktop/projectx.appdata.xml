@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">projectx.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>DVB video editing and demultiplexing tool</summary>
+  <description>
+    <p>
+        European digital radio &amp; television uses the DVB standard to
+        broadcast its data. Project-X gives you a look behind the transmissions
+        and tries its best to handle &amp; repair many stream types and shows
+        what went wrong on reception. It's not meant for a regular use but for
+        test and learning conditions.
+    </p>
+    <p>
+        At the moment, Project-X does not include support for H.264 (HD video)
+        content.  
+    </p>
+  </description>
+  <url type="homepage">http://project-x.sourceforge.net/</url>
+  <screenshots>
+    <screenshot type="default"></screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

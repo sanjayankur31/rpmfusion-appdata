@@ -53,7 +53,7 @@ D rpmfusion-free                           oxine
 D rpmfusion-free                           pangzero
 D rpmfusion-free                           pcsxr
 D rpmfusion-free                           pithos
-rpmfusion-free                           ProjectX
+D rpmfusion-free                           ProjectX
 rpmfusion-free                           qarte
 rpmfusion-free                           SheepShaver
 rpmfusion-free                           smc
