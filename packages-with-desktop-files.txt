@@ -80,8 +80,8 @@ D rpmfusion-free                           zsnes
 D rpmfusion-nonfree                        abuse
 D rpmfusion-nonfree                        assaultcube
 D rpmfusion-nonfree                        clipgrab
-rpmfusion-nonfree                        d1x
-rpmfusion-nonfree                        doom-shareware
+D rpmfusion-nonfree                        d1x
+D rpmfusion-nonfree                        doom-shareware
 rpmfusion-nonfree                        dropbox
 rpmfusion-nonfree                        e-uae
 rpmfusion-nonfree                        Frodo
