@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">gtetrinet.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>gtetrinet</name>
+  <summary>GNOME version of a tetris game playable on the net</summary>
+  <description>
+    <p>
+        GTetrinet is a client program for the popular Tetrinet game, a
+        multiplayer tetris game that is played over the internet. (If you don't
+        know what Tetrinet is, check out tetrinet.org).
+    </p>
+    <p>
+    Here are links to a couple of Tetrinet servers for Unix/Linux:
+    </p>
+    <ul>
+        <li>Tetrinet for Linux - includes both a server and a console client</li>
+        <li>TetrinetX - a highly configurable server with many features</li>
+    </ul>
+    <p>
+    For more information on the gameplay, refer to the tetrinet.txt file that
+    came with the original Tetrinet distribution.
+
+    Features:
+    </p>
+    <ul>
+        <li>Fully network compatible with Tetrinet v1.13 for Win95/98/NT</li>
+        <li>Theme support with sound</li>
+        <li>Spectator support on Tetrinet-X servers with the qirc patch by Drslum</li>
+    </ul>
+  </description>
+  <url type="homepage">http://gtetrinet.sourceforge.net/</url>
+  <screenshots>
+  <!-- FIXME: Needs an official up to date screenshot -->
+      <screenshot type="default">http://gtetrinet.sourceforge.net/screenshots/gtet-fields.png</screenshot>
+      <screenshot type="default">http://gtetrinet.sourceforge.net/screenshots/gtet-party.png</screenshot>
+      <screenshot type="default">http://gtetrinet.sourceforge.net/screenshots/gtet-winlist.png</screenshot>
+  </screenshots>
+  <updatecontact>bocata@panete.net</updatecontact>
+</application>
+

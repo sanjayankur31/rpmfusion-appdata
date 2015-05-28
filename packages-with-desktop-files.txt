@@ -24,7 +24,7 @@ D rpmfusion-free                           gambatte-qt
 D rpmfusion-free                           gltron
 X rpmfusion-free                           gmediafinder
 D rpmfusion-free                           gnome-mplayer
-rpmfusion-free                           gtetrinet
+D rpmfusion-free                           gtetrinet
 rpmfusion-free                           guvcview
 rpmfusion-free                           gxine
 rpmfusion-free                           imagination
