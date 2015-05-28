@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">smc.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>2D platform game that uses OpenGL in a style similar to Super Mario</summary>
+  <description>
+    <p>
+        Secret Maryo Chronicles is an Open Source two-dimensional platform game
+        with a design similar to classic computer games. SMC has computer
+        support to a great degree by using an accelerated Open Graphics Library
+        for the best possible graphic design and stock performance.
+
+        Features:
+    </p>
+    <ul>
+        <li>In-game editor</li>
+        <li>Many levels</li>
+        <li>Multiple Maryo stages</li>
+        <li>Multiple overlords</li>
+        <li>Great sound and music</li>
+        <li>Save and load</li>
+        <li>Get extra lives</li>
+    </ul>
+  </description>
+  <url type="homepage">http://www.secretmaryo.org</url>
+  <screenshots>
+      <screenshot type="default">http://www.secretmaryo.org/images/screenshot/2.0/media/1.png</screenshot>
+      <screenshot type="default">http://www.secretmaryo.org/images/screenshot/2.0/media/2.png</screenshot>
+      <screenshot type="default">http://www.secretmaryo.org/images/screenshot/2.0/media/3.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

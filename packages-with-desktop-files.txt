@@ -56,7 +56,7 @@ D rpmfusion-free                           pithos
 D rpmfusion-free                           ProjectX
 D rpmfusion-free                           qarte
 D rpmfusion-free                           SheepShaver
-rpmfusion-free                           smc
+D rpmfusion-free                           smc
 rpmfusion-free                           smplayer
 rpmfusion-free                           sonic-visualiser-freeworld
 rpmfusion-free                           stella
