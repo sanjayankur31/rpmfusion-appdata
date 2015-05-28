@@ -61,7 +61,7 @@ D rpmfusion-free                           smplayer
 D rpmfusion-free                           sonic-visualiser-freeworld
 D rpmfusion-free                           stella
 D rpmfusion-free                           terminatorX
-rpmfusion-free                           traverso
+D rpmfusion-free                           traverso
 rpmfusion-free                           vagalume
 rpmfusion-free                           vbam-gtk
 rpmfusion-free                           VirtualBox

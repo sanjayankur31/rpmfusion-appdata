@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">traverso.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Multitrack Audio Recording and Editing Suite</summary>
+    <description>
+        <p>
+            Traverso Digital Audio Workstation is a cross platform multitrack audio
+            recording  and editing suite, with an innovative and easy to master User
+            Interface. It's suited for both the professional and home user, who needs a
+            robust and solid DAW.
+        </p>
+        <p>
+            Traverso is a complete solution from recording to CD Mastering. By supplying
+            many common tools in one package, you don't have to learn how to use lots of
+            applications with different user interfaces. This considerably lowers the
+            learning curve, letting you get your audio processing work done faster!
+        </p>
+        <p>
+            A unique approach to non-linear audio processing was developed for Traverso to
+            provide extremely solid and robust audio processing and editing. Adding and
+            removal of effects plugins, moving Audio Clips and creating new Tracks during
+            playback are all perfectly safe, giving you instant feedback on your work!
+
+        </p>
+    </description>
+    <url type="homepage">http://traverso-daw.org/</url>
+    <screenshots>
+        <screenshot type="default">http://traverso-daw.org/tutorial/images/mainwindow2.png</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
