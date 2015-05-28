@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">virtualbox.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>A general-purpose full virtualizer for PC hardware</summary>
+    <description>
+        <p>
+            VirtualBox is a cross-platform virtualization application. What does
+            that mean? For one thing, it installs on your existing Intel or
+            AMD-based computers, whether they are running Windows, Mac, Linux or
+            Solaris operating systems. Secondly, it extends the capabilities of
+            your existing computer so that it can run multiple operating systems
+            (inside multiple virtual machines) at the same time. 
+        </p>
+        <p>
+            So, for example, you can run Windows and Linux on your Mac, run
+            Windows Server 2008 on your Linux server, run Linux on your Windows
+            PC, and so on, all alongside your existing applications. You can
+            install and run as many virtual machines as you like -- the only
+            practical limits are disk space and memory.
+        </p>
+        <p>
+            VirtualBox is a cross-platform virtualization application. What does
+            VirtualBox is deceptively simple yet also very powerful. It can run
+            everywhere from small embedded systems or desktop class machines all
+            the way up to datacenter deployments and even Cloud environments.
+        </p>
+    </description>
+    <url type="homepage">http://www.virtualbox.org/wiki/VirtualBox</url>
+    <screenshots>
+        <screenshot type="default">https://www.virtualbox.org/manual/images/vm-vista-running.png</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
