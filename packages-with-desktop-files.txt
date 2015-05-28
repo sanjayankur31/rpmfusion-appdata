@@ -27,7 +27,7 @@ D rpmfusion-free                           gnome-mplayer
 D rpmfusion-free                           gtetrinet
 D rpmfusion-free                           guvcview
 D rpmfusion-free                           gxine
-rpmfusion-free                           imagination
+D rpmfusion-free                           imagination
 rpmfusion-free                           k9copy
 D rpmfusion-free                           kaffeine
 D rpmfusion-free                           kdenlive

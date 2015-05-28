@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">imagination.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>imagination</name>
+  <summary>A lightweight and simple GTK based DVD slide show creator</summary>
+  <description>
+    <p>
+        Imagination is a lightweight and simple DVD slide show maker for Linux
+        and FreeBSD written in C language and built with the GTK+2 toolkit. I
+        noticed a lack of a user-friendly DVD slide show maker for GNU/Linux,
+        so I started developing Imagination. 
+    </p>
+    <p>
+        True, there are some other GUIs which do the job, but they usually
+        require a lot of dependencies to be installed first and often their
+        interfaces are bloated. Imagination has been designed from the ground
+        up to be fast, light and easy-to-use. It requires the ffmpeg encoder to
+        produce the movie file and libsox to handle the audio. Yes you don't
+        need any other third-party software, I like the KISS principle :).
+    </p>
+    <p>
+        Imagination at present features 69 transition effects, random function
+        to automatically set a random transition on all the selected slides,
+        cut/copy/paste ability on the slides, Ken Burns ability, text on the
+        slides with some text animations, ability to add an empty slide with a
+        gradient editor and export of the slideshow as OGV Theora/Vorbis,
+        widescreen FLV video and 3GP for mobile phones.
+    </p>
+    <!-- FIXME: Probably needs another paragraph -->
+  </description>
+  <url type="homepage">http://imagination.sourceforge.net/</url>
+  <screenshots>
+      <screenshot type="default">http://imagination.sourceforge.net/screenshots/heart-in.png</screenshot>
+      <screenshot type="default">http://imagination.sourceforge.net/screenshots/export_flv_dialog.png</screenshot>
+      <screenshot type="default">http://imagination.sourceforge.net/screenshots/add_empty_slide.png</screenshot>
+  </screenshots>
+  <updatecontact>gt67@users.sourceforge.net</updatecontact>
+</application>
+
