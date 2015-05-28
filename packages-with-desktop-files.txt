@@ -51,7 +51,7 @@ D rpmfusion-free                           openshot
 D rpmfusion-free                           osmose
 D rpmfusion-free                           oxine
 D rpmfusion-free                           pangzero
-rpmfusion-free                           pcsxr
+D rpmfusion-free                           pcsxr
 rpmfusion-free                           pithos
 rpmfusion-free                           ProjectX
 rpmfusion-free                           qarte
