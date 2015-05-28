@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">xvst.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>Downloading your favourite video clips from a lot of websites</summary>
+  <description>
+    <p>
+        xVideoServiceThief (a.k.a xVST) is a tool for downloading your
+        favourite video clips from a lot of video websites (currently supports
+        93 websites and increasing!).
+    </p>
+
+    <p>
+        xVideoServiceThief also provide you the ability to convert each video
+        in most popular formats: AVI, MPEG1, MPEG2, WMV, MP4, 3GP, MP3 file
+        formats.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/xVST/xVideoServiceThief</url>
+  <screenshots>
+      <screenshot type="default">http://xviservicethief.sourceforge.net/images/screenshots/Linux/linux-main.png</screenshot>
+      <screenshot type="default">http://xviservicethief.sourceforge.net/images/screenshots/Linux/linux-add-video.png</screenshot>
+      <screenshot type="default">http://xviservicethief.sourceforge.net/images/screenshots/Linux/linux-options.png</screenshot>
+      <screenshot type="default">http://xviservicethief.sourceforge.net/images/screenshots/Linux/linux-options-language-manager.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
