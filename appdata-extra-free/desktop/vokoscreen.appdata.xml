@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">vokoscreen.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>Screencast creator</summary>
+  <description>
+    <p>
+        vokoscreen is an easy to use screencast creator to record educational
+        videos, live recordings of browser, installation, videoconferences,
+        etc.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/vkohaupt/vokoscreen</url>
+  <screenshots>
+      <screenshot type="default">http://linuxecke.volkoh.de/vokoscreen/vokoscreen-picture-screen.png</screenshot>
+      <screenshot type="default">http://linuxecke.volkoh.de/vokoscreen/vokoscreen-picture-about.png</screenshot>
+      <screenshot type="default">http://linuxecke.volkoh.de/vokoscreen/vokoscreen-picture-codec.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
