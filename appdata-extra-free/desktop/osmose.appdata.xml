@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">osmose.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>A Sega Master System / Game Gear emulator</summary>
+    <description>
+        <p>
+            Osmose is a Sega Master System / Gamegear console emulator. The emulator is
+            released as open source project, under GPL license and exists for both Linux
+            and windows.
+
+            Features:
+        </p>
+        <ul>
+            <li>QT based GUI</li>
+            <li>Open GL based Renderer</li>
+            <li>SMS emulation: Good compatibility</li>
+            <li>Game Gear emulation : Good compatibility</li>
+            <li>SN76489 Sound is supported, but still needs work</li>
+            <li>support. for .ZIP .SMS and .GG format</li>
+            <li>Video filters: bilinear, nearest neighbour</li>
+            <li>Pad(keyboard or joystick mapped)</li>
+            <li>PAL/NTSC Timing</li>
+            <li>Japanese/Export console</li>
+            <li>In game Screenshots, GFX rip, sound shot</li>
+            <li>Configurable (file edition) keyboard configuration</li>
+            <li>Joystick support</li>
+        </ul>
+    </description>
+    <url type="homepage">http://bcz.asterope.fr/</url>
+    <screenshots>
+        <screenshot type="default">http://bcz.asterope.fr/osmose/DynaDuke.png</screenshot>
+        <screenshot type="default">http://bcz.asterope.fr/osmose/Golden.png</screenshot>
+        <screenshot type="default">http://bcz.asterope.fr/osmose/addams.png</screenshot>
+        <screenshot type="default">http://bcz.asterope.fr/osmose/Mickey.png</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

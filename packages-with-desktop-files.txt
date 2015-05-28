@@ -48,7 +48,7 @@ D rpmfusion-free                           mythtv-setup
 D rpmfusion-free                           Nestopia - upstream url has changed
 D rpmfusion-free                           ogmrip
 D rpmfusion-free                           openshot
-rpmfusion-free                           osmose
+D rpmfusion-free                           osmose
 rpmfusion-free                           oxine
 rpmfusion-free                           pangzero
 rpmfusion-free                           pcsxr
