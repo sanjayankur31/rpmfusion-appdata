@@ -82,8 +82,8 @@ D rpmfusion-nonfree                        assaultcube
 D rpmfusion-nonfree                        clipgrab
 D rpmfusion-nonfree                        d1x
 D rpmfusion-nonfree                        doom-shareware
-rpmfusion-nonfree                        dropbox
-rpmfusion-nonfree                        e-uae
+X rpmfusion-nonfree                        dropbox
+D rpmfusion-nonfree                        e-uae
 rpmfusion-nonfree                        Frodo
 rpmfusion-nonfree                        frogatto
 rpmfusion-nonfree                        fuse-emulator-roms
