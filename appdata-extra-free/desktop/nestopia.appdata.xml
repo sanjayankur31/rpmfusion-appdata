@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">nestopia.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A portable open source NES/Famicom emulator</summary>
+  <description>
+    <p>
+        Nestopia is a portable open source NES/Famicom emulator written in C++.
+        It's designed to be as accurate as possible and supports a large number
+        of peripherals. The hardware is emulated at cycle-by-cycle granularity,
+        ensuring full support for software that do mid-scanline and other
+        timing trickery.
+    </p>
+  </description>
+  <url type="homepage">http://nestopia.sourceforge.net/</url>
+  <screenshots>
+    <screenshot type="default"></screenshot>
+  </screenshots>
+  <updatecontact>martin-freij@home.se</updatecontact>
+</application>
+

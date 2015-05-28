@@ -45,7 +45,7 @@ D rpmfusion-free                           mplayer-gui
 D rpmfusion-free                           mpv
 D rpmfusion-free                           mythtv-frontend
 D rpmfusion-free                           mythtv-setup
-rpmfusion-free                           Nestopia
+D rpmfusion-free                           Nestopia - upstream url has changed
 rpmfusion-free                           ogmrip
 D rpmfusion-free                           openshot
 rpmfusion-free                           osmose
