@@ -89,10 +89,10 @@ D rpmfusion-nonfree                        frogatto
 I rpmfusion-nonfree                        fuse-emulator-roms
 I rpmfusion-nonfree                        gmameui
 D rpmfusion-nonfree                        gsview
-rpmfusion-nonfree                        lpf-flash-plugin
-rpmfusion-nonfree                        lpf-spotify-client
-rpmfusion-nonfree                        mari0
-rpmfusion-nonfree                        meka
+I rpmfusion-nonfree                        lpf-flash-plugin
+I rpmfusion-nonfree                        lpf-spotify-client
+I rpmfusion-nonfree                        mari0
+D rpmfusion-nonfree                        meka
 rpmfusion-nonfree                        netfabb-basic
 rpmfusion-nonfree                        openclonk
 rpmfusion-nonfree                        openclonk-devel-docs

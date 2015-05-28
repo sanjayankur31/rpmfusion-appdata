@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">meka.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Sega 8-bit machine emulator</summary>
+    <description>
+        <p>
+            MEKA is a multi-machine emulator for MS-Windows and GNU/Linux (older versions support MS-DOS).
+            The following machines are supported by MEKA:
+        </p>
+
+        <ul>
+            <li>Sega Game 1000 (SG-1000)</li>
+            <li>Sega Computer 3000 (SC-3000)</li>
+            <li>Sega Super Control Station (SF-7000)</li>
+            <li>Sega Mark III (+ FM Unit)</li>
+            <li>Sega Master System (SMS)</li>
+            <li>Sega Game Gear (GG)</li>
+            <li>ColecoVision (COLECO)</li>
+            <li>Othello Multivision (OMV)</li>
+        </ul>
+
+        <p>
+            Along with a wide range of peripherals and exotic games support.
+            MEKA also include a powerful debugger and various debugging/hacking tools. 
+        </p>
+    </description>
+    <url type="homepage">http://www.smspower.org/meka/</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
