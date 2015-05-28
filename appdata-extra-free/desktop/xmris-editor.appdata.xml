@@ -7,9 +7,9 @@ SentUpstream: yyyy-mm-dd
 -->
 
 <application>
-    <id type="desktop">xmris.desktop</id>
+    <id type="desktop">xmris-editor.desktop</id>
     <metadata_license>CC0-1.0</metadata_license>
-    <summary>Maze digging and cherry eating game</summary>
+    <summary>Level editor for xmris</summary>
     <description>
         <p>
             You control a gnome, who can walk around a garden, along paths  already marked,

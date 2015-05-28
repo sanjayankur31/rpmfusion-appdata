@@ -71,7 +71,7 @@ D rpmfusion-free                           wormsofprey
 D rpmfusion-free                           xbill
 D rpmfusion-free                           xine-ui
 D rpmfusion-free                           xmris
-rpmfusion-free                           xmris-editor
+D rpmfusion-free                           xmris-editor
 rpmfusion-free                           xroar
 rpmfusion-free                           xvid4conf
 rpmfusion-free                           xvst
