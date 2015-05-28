@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">gxine.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>gxine</name>
+  <summary>GTK frontend for the xine multimedia library</summary>
+  <description>
+    <p>
+        gxine is a fully-featured free audio/video player for unix-like systems
+        which uses libxine for audio/video decoding and playback. For more
+        informations on what formats are supported, please refer to the libxine
+        documentation.  gxine is a gtk based gui for this xine-library
+        alternate to xine-ui.
+    </p>
+  </description>
+  <url type="homepage">http://www.xine-project.org/home</url>
+  <screenshots>
+      <screenshot type="default">http://www.xine-project.org/images/releases/gxine.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

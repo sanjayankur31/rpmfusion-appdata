@@ -26,7 +26,7 @@ X rpmfusion-free                           gmediafinder
 D rpmfusion-free                           gnome-mplayer
 D rpmfusion-free                           gtetrinet
 D rpmfusion-free                           guvcview
-rpmfusion-free                           gxine
+D rpmfusion-free                           gxine
 rpmfusion-free                           imagination
 rpmfusion-free                           k9copy
 D rpmfusion-free                           kaffeine
