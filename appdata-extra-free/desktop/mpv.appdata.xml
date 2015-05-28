@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">mpv.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A free, open source, and cross-platform media player</summary>
+  <description>
+    <p>
+        MPV is a fork of mplayer2 and MPlayer. It shares some features with the
+        former projects while introducing many more.
+    </p>
+    <p>
+        Streamlined CLI options:  MPlayer's options parser was improved to
+        behave more like other CLI programs, and many option names and
+        semantics were reworked to make them more intuitive and memorable.
+
+        On Screen Controller: While mpv has no official GUI, it has a small
+        controller that is triggered by mouse movement.
+
+        High quality video output: mpv has a OpenGL based video output that is
+        capable of many features loved by videophiles, such as video scaling
+        with popular high quality algorithms, color management, and more.
+    </p>
+    <p>
+        GPU video decoding: mpv leverages the FFmpeg hwaccel APIs to support
+        VDPAU, VAAPI, DXVA2 and VDA video decode acceleration.
+
+        Active development: mpv is under active development, focusing on code
+        refactoring and cleanups as well as adding features. Want a feature?
+        Post a patch or request it!
+    </p>
+  </description>
+  <url type="homepage">http://mpv.io/</url>
+  <screenshots>
+      <screenshot type="default">http://mpv.io/images/mpv-screenshot@2x-a5690cbb.jpg</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
