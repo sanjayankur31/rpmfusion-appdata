@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">pushover.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Fun puzzle game with dominos</summary>
+    <description>
+        <p>
+            Pushover is a fun puzzle game originally published by Ocean in
+            1992. In this game you control an ant that can walk along platforms
+            that are connected with ladders. On those platforms are dominos
+            that need to fall according to some rules.
+        </p>
+        <ul>
+            <li>All dominos must fall and none must crash into another</li>
+            <li>One special domino must fall as last domino and that domino triggers the exit door to open when you enter the exit door the level has been completed</li>
+            <li>You may rearrange as many dominos as you want, except for the trigger. You may not place dominos in front of the doors, except for the vanishing domino.</li>
+            <li>You may push push once to start a chain reaction with the dominos leading to the fall of all of them</li>
+            <li>All this has to be done within a time limit (which is normally generous)</li>
+            <li>There are 11 different dominos that behave differently when pushed, some fall, some not, some wait a bit before they fall, some raise, some toppler until they meet an obstacle</li>
+            <li>There is a help in the game and introductory levels that show how all the dominos work</li>
+        </ul>
+
+    </description>
+    <url type="homepage">http://pushover.sourceforge.net/</url>
+    <screenshots>
+        <screenshot type="default">http://pushover.sourceforge.net/images/Screenshot2.jpg</screenshot>
+        <screenshot type="default">http://pushover.sourceforge.net/images/Screenshot3.png</screenshot>
+    </screenshots>
+    <updatecontact>roever_at_users_dot_sourceforge_dot_net</updatecontact>
+</application>
+

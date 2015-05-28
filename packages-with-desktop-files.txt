@@ -98,7 +98,7 @@ A rpmfusion-nonfree                        openclonk
 X rpmfusion-nonfree                        openclonk-devel-docs
 I rpmfusion-nonfree                        pgadmin3
 D rpmfusion-nonfree                        plus4emu
-rpmfusion-nonfree                        pushover
+D rpmfusion-nonfree                        pushover
 rpmfusion-nonfree                        pyskool
 D rpmfusion-nonfree                        roadfighter
 rpmfusion-nonfree                        snes9x
