@@ -93,7 +93,7 @@ I rpmfusion-nonfree                        lpf-flash-plugin
 I rpmfusion-nonfree                        lpf-spotify-client
 I rpmfusion-nonfree                        mari0
 D rpmfusion-nonfree                        meka
-rpmfusion-nonfree                        netfabb-basic
+I rpmfusion-nonfree                        netfabb-basic
 rpmfusion-nonfree                        openclonk
 rpmfusion-nonfree                        openclonk-devel-docs
 rpmfusion-nonfree                        pgadmin3

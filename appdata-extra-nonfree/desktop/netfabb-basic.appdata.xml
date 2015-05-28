@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">netfabb-basic.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Freeware suite for STL editing</summary>
+    <description>
+        <p>
+            netfabb Basic is a free (as in free beer) software for 3D Printing
+            and the STL file format. Numerous tools allow all steps of the
+            fabrication process: editing, repairing, positioning, slicing and
+            exporting triangulated CAD data. For professional use, the author
+            offers commercial support and additional modules.
+        </p>
+    </description>
+    <url type="homepage">http://www.netfabb.com/</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
