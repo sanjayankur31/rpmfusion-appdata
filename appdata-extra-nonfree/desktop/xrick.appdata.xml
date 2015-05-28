@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">xrick.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A clone of the game Rick Dangerous</summary>
+  <description>
+    <p>
+        Way before Lara Croft, back in the 1980's and early 1990's, Rick
+        Dangerous was the Indiana Jones of computer games, running away from
+        rolling rocks, avoiding traps, from South America to a futuristic
+        missile base via Egypt and the Schwarzendumpf castle.
+        the game, learn how to play, and enjoy!
+    </p>
+
+    <p>
+        xrick is a clone of Rick Dangerous, known to run on Linux, Windows,
+        BeOs, Amiga, QNX, all sorts of gaming consoles... download and install
+        the game, learn how to play, and enjoy!
+    </p>
+  </description>
+  <url type="homepage">http://www.bigorno.net/xrick/</url>
+  <screenshots>
+    <screenshot type="default"></screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

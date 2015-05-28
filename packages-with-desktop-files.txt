@@ -109,9 +109,9 @@ I rpmfusion-nonfree                        wolf4sdl-shareware
 I rpmfusion-nonfree                        wolf4sdl-spear
 I rpmfusion-nonfree                        wolf4sdl-spear-demo
 D rpmfusion-nonfree                        xcpc
-rpmfusion-nonfree                        xorg-x11-drv-nvidia
-rpmfusion-nonfree                        xorg-x11-drv-nvidia-304xx
-rpmfusion-nonfree                        xorg-x11-drv-nvidia-340xx
-rpmfusion-nonfree                        xrick
+X rpmfusion-nonfree                        xorg-x11-drv-nvidia
+X rpmfusion-nonfree                        xorg-x11-drv-nvidia-304xx
+X rpmfusion-nonfree                        xorg-x11-drv-nvidia-340xx
+D rpmfusion-nonfree                        xrick
 rpmfusion-nonfree                        xv
 rpmfusion-nonfree                        yapeSDL
