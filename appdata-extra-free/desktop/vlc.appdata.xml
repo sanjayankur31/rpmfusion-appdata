@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">vlc.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>The cross-platform open-source multimedia framework, player and server</summary>
+  <description>
+    <p>
+        VLC is a free and open source cross-platform multimedia player and
+        framework that plays most multimedia files as well as DVDs, Audio CDs,
+        VCDs, and various streaming protocols.
+    </p>
+  </description>
+  <url type="homepage">http://www.videolan.org</url>
+  <screenshots>
+      <screenshot type="default">http://images1.videolan.org/vlc/screenshots/2.0.0/vlc-2.0-poney.jpg</screenshot>
+      <screenshot type="default">http://images1.videolan.org/vlc/screenshots/2.0.0/vlc-2.0-gnome3-open.jpg</screenshot>
+      <screenshot type="default">http://images1.videolan.org/vlc/screenshots/2.0.0/vlc-2.0-gnome3-debian.jpg</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

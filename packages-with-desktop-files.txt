@@ -65,7 +65,7 @@ D rpmfusion-free                           traverso
 D rpmfusion-free                           vagalume
 D rpmfusion-free                           vbam-gtk
 D rpmfusion-free                           VirtualBox
-rpmfusion-free                           vlc
+D rpmfusion-free                           vlc
 rpmfusion-free                           vokoscreen
 D rpmfusion-free                           wormsofprey
 rpmfusion-free                           xbill
