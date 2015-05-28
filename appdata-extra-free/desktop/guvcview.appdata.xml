@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">guvcview.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>guvcview</name>
+  <summary>GTK+ UVC Viewer and Capturer</summary>
+  <description>
+    <p>
+        This project aims at providing a simple GTK interface for capturing and
+        viewing video from devices supported by the linux UVC driver, although
+        it should also work with any v4l2 compatible device.
+    </p>
+    <p>
+        This project aims at providing a simple GTK interface for capturing and
+        The project is based on luvcview for video rendering, but all controls
+        are build using a GTK2 interface.
+    </p>
+    <p>
+        This project aims at providing a simple GTK interface for capturing and
+        You can also use guvcview (since version 0.9.9) has a control window
+        only, (from console: guvcview --control_only), this allows image
+        control on other apps, like ekiga, cheese, mplayer, skype, ...  
+    </p>
+  </description>
+  <url type="homepage">http://guvcview.sourceforge.net/</url>
+  <!-- FIXME: Needs an official up to date screenshot 
+  <screenshots>
+    <screenshot type="default">http://www.upstreamurl.com/screenshots/file.png</screenshot>
+  </screenshots>
+    -->
+  <updatecontact>pj.assis@gmail.com</updatecontact>
+</application>
+
