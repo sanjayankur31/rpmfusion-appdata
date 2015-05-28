@@ -75,7 +75,7 @@ D rpmfusion-free                           xmris-editor
 D rpmfusion-free                           xroar
 X rpmfusion-free                           xvid4conf
 D rpmfusion-free                           xvst
-rpmfusion-free                           yabause
+D rpmfusion-free                           yabause
 rpmfusion-free                           zsnes
 D rpmfusion-nonfree                        abuse
 D rpmfusion-nonfree                        assaultcube
