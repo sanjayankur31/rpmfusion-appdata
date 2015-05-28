@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">dribble-Frodo.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Commodore 64 emulator</summary>
+    <description>
+        <p>
+            Frodo V4.1 is a free, portable C64 emulator for BeOS, Unix, MacOS,
+            AmigaOS, RiscOS and WinNT/95 systems.  Some of the emulation's
+            features:
+        </p>
+        <ul>
+            <li>This emulator focuses on the exact reproduction of special graphical effects possible on the C64</li>
+            <li>6510 emulation: All undocumented opcodes, 100% correct decimal mode, instruction/cycle exact emulation</li>
+            <li>VIC emulation: Line-/cycle-based emulation, all display modes, sprites with collisions/priorities, DMA cycles, open borders, all $d011/$d016 effects</li>
+            <li>SID emulation: Real-time digital emulation (16 bit, 44.1kHz), including filters (only under BeOS, Linux, HP-UX, MacOS and AmigaOS)</li>
+            <li>1541 emulation: Drive simulation in directories, .d64/x64 or .t64/LYNX files, or processor-level 1541 emulation that works with about 95% of all fast loaders and even some copy protection schemes</li>
+            <li>Other peripherals: Keyboard and joystick (real joysticks (only under BeOS, Linux and AmigaOS) or keyboard emulation)</li>
+            <li>The full source code in C++ is available</li>
+            <li>Frodo is freeware. Why pay >$40 for a C64 emulator?</li>
+        </ul>
+
+    </description>
+    <url type="homepage">http://frodo.cebix.net/</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
