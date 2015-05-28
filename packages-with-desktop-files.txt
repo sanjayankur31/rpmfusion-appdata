@@ -70,7 +70,7 @@ D rpmfusion-free                           vokoscreen
 D rpmfusion-free                           wormsofprey
 D rpmfusion-free                           xbill
 D rpmfusion-free                           xine-ui
-rpmfusion-free                           xmris
+D rpmfusion-free                           xmris
 rpmfusion-free                           xmris-editor
 rpmfusion-free                           xroar
 rpmfusion-free                           xvid4conf

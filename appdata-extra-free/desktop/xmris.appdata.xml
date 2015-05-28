@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">xmris.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary></summary>
+    <description>
+        <p>
+            You control a gnome, who can walk around a garden, along paths  already marked,
+            or  create  new paths wherever you wish. You also have a ball, which can be
+            thrown in the direction you're facing, towards the gnome's feet.  Points  are
+            scored for collecting cherries (if you collect eight cherries without stopping
+            or  pushing  an  apple,  you  get  a  bonus), killing monsters (by squashing
+            them, or throwing the ball at them), and collecting the prize left when all the
+            monsters have come out of  their den.
+        </p>
+    </description>
+    <url type="homepage">http://sourceforge.net/projects/xmris/</url>
+    <screenshots>
+        <screenshot type="default">http://a.fsdn.com/con/app/proj/xmris/screenshots/163971.jpg</screenshot>
+        <screenshot type="default">http://a.fsdn.com/con/app/proj/xmris/screenshots/163967.jpg</screenshot>
+        <screenshot type="default">http://a.fsdn.com/con/app/proj/xmris/screenshots/163969.jpg</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
