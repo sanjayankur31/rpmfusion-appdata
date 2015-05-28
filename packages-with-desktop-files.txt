@@ -86,9 +86,9 @@ X rpmfusion-nonfree                        dropbox
 D rpmfusion-nonfree                        e-uae
 D rpmfusion-nonfree                        Frodo
 D rpmfusion-nonfree                        frogatto
-rpmfusion-nonfree                        fuse-emulator-roms
-rpmfusion-nonfree                        gmameui
-rpmfusion-nonfree                        gsview
+I rpmfusion-nonfree                        fuse-emulator-roms
+I rpmfusion-nonfree                        gmameui
+D rpmfusion-nonfree                        gsview
 rpmfusion-nonfree                        lpf-flash-plugin
 rpmfusion-nonfree                        lpf-spotify-client
 rpmfusion-nonfree                        mari0
