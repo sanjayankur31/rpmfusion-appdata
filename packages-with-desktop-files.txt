@@ -72,7 +72,7 @@ D rpmfusion-free                           xbill
 D rpmfusion-free                           xine-ui
 D rpmfusion-free                           xmris
 D rpmfusion-free                           xmris-editor
-rpmfusion-free                           xroar
+D rpmfusion-free                           xroar
 rpmfusion-free                           xvid4conf
 rpmfusion-free                           xvst
 rpmfusion-free                           yabause

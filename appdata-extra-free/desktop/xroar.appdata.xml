@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">xroar.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A Dragon 32, Dragon 64 and Tandy CoCo emulator</summary>
+  <description>
+      <p>
+          XRoar is a Dragon emulator that runs on a wide variety of platforms.
+          Due to hardware similarities, XRoar also emulates the Tandy Colour
+          Computer (CoCo) models 1 &amp; 2. Some features are: XRoar was
+          originally written to run on Solaris, Linux and the GP32 handheld.
+          Later, it was ported to the Nintendo DS. Support has now been dropped
+          for the GP32 and NDS as emulation accuracy, and thus the CPU
+          requirement, has increased.
+      </p>
+
+      <ul>
+          <li>Emulates Dragon 32, Dragon 64, Dragon 200-E, Tandy CoCo 1 &amp; 2, and compatibles</li>
+          <li>Emulates DragonDOS, Delta and RSDOS disk systems</li>
+          <li>Emulates the Orchestra 90-CC stereo sound cartridge</li>
+          <li>Supports both raw and translated keyboard modes</li>
+          <li>Reads and writes virtual cassettes (compact .cas files and audio files)</li>
+          <li>Reads and writes VDK, JVC and DMK format virtual floppy diskettes</li>
+          <li>Saves and loads machine snapshots</li>
+          <li>Provides a GDB target for remote debugging</li>
+      </ul>
+  </description>
+  <url type="homepage">http://www.6809.org.uk/xroar/</url>
+  <screenshots>
+    <screenshot type="default"></screenshot>
+  </screenshots>
+  <updatecontact>xroar@6809.org.uk</updatecontact>
+</application>
+
