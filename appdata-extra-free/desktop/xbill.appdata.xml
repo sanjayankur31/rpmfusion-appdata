@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">xbill.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>Stop Bill from loading his OS into all the computers</summary>
+  <description>
+    <p>
+         Ever get the feeling that nothing is going right? You're a sysadmin,
+         and someone's trying to destroy your computers. The little people
+         running around the screen are trying to infect your computers with
+         Wingdows [TM], a virus cleverly designed to resemble a popular
+         operating system. Additionally, some computers are connected with
+         network cables. When one computer on a network becomes infected, a
+         spark will be sent down the cable, and will infect the computer on the
+         other end when it reaches there.
+     </p>
+
+    <p>
+         That's the basic idea of the game. Pretty simple, but fun for a while,
+         and definitely something to appreciate.
+     </p>
+
+    <p>
+         XBill was mostly written during the summer of 1994 by Brian Wellington
+         and Matias Duarte, and has gone through several revisions since. The
+         current version is 2.1. New ideas are appreciated, and if they sound
+         interesting enough, may be implemented. Especially if those new ideas
+         include graphics.  
+     </p>
+  </description>
+  <url type="homepage">http://www.xbill.org/</url>
+  <screenshots>
+    <screenshot type="default"></screenshot>
+  </screenshots>
+  <updatecontact>bwelling@xbill.org</updatecontact>
+</application>
+
