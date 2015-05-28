@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">gvbam.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>GTK GUI for VBA-M, a high compatibility Gameboy Advance Emulator</summary>
+    <description>
+        <p>
+            This package provides the GTK GUI version of VisualBoyAdvance-M.
+            VisualBoyAdvance-M is a Nintendo Game Boy Emulator with high
+            compatibility with commercial games. It emulates the Nintendo Game
+            Boy Advance hand held console, in addition to the original Game Boy
+            hand held systems and its Super and Color variants. VBA-M is a
+            continued development of the now inactive VisualBoy Advance
+            project, with many improvements from various developments of VBA.
+        </p>
+    </description>
+    <url type="homepage">http://www.vba-m.com</url>
+    <screenshots>
+        <screenshot type="default"></screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

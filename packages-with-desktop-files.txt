@@ -63,7 +63,7 @@ D rpmfusion-free                           stella
 D rpmfusion-free                           terminatorX
 D rpmfusion-free                           traverso
 D rpmfusion-free                           vagalume
-rpmfusion-free                           vbam-gtk
+D rpmfusion-free                           vbam-gtk
 rpmfusion-free                           VirtualBox
 rpmfusion-free                           vlc
 rpmfusion-free                           vokoscreen
