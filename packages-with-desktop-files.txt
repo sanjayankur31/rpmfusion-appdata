@@ -49,7 +49,7 @@ D rpmfusion-free                           Nestopia - upstream url has changed
 D rpmfusion-free                           ogmrip
 D rpmfusion-free                           openshot
 D rpmfusion-free                           osmose
-rpmfusion-free                           oxine
+D rpmfusion-free                           oxine
 rpmfusion-free                           pangzero
 rpmfusion-free                           pcsxr
 rpmfusion-free                           pithos
