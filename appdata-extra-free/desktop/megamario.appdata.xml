@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">megamario.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>megamario</name>
+  <summary>Well known platform game clone</summary>
+  <description>
+    <p>
+        MegaMario is a clone of a well know platform game, featuring 25 new
+        levels. In the game you play Mario and your task is to free his brother
+        Luigi, who was captured by evil Bowser.
+    </p>
+  </description>
+  <url type="homepage">http://mmario.sourceforge.net/</url>
+  <screenshots>
+      <screenshot type="default">http://mmario.sourceforge.net/screens/1.jpg</screenshot>
+      <screenshot type="default">http://mmario.sourceforge.net/screens/2.jpg</screenshot>
+      <screenshot type="default">http://mmario.sourceforge.net/screens/3.jpg</screenshot>
+      <screenshot type="default">http://mmario.sourceforge.net/screens/4.jpg</screenshot>
+      <screenshot type="default">http://mmario.sourceforge.net/screens/5.jpg</screenshot>
+  </screenshots>
+  <updatecontact>info@megamario.de</updatecontact>
+</application>
+
