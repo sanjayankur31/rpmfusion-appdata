@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">devede.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>devede</name>
   <summary>A program to create video DVDs and CDs (VCD, sVCD or CVD)</summary>
   <description>
     <p>

@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">dvd95.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>dvd95</name>
   <summary>Graphical dvd9 to dvd5 converter</summary>
   <description>
     <p>

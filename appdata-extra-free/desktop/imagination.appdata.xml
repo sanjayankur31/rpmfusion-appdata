@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">imagination.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>imagination</name>
   <summary>A lightweight and simple GTK based DVD slide show creator</summary>
   <description>
     <p>

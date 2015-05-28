@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">dvbcut.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>dvbcut</name>
   <summary>Clip and convert DVB transport streams to MPEG2 program streams</summary>
   <description>
     <p>

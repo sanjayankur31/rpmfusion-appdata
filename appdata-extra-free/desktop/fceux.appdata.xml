@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">fceux.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>fceux</name>
   <summary>A cross platform, NTSC and PAL Famicom/NES emulator</summary>
   <description>
     <p>

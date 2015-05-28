@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">kwave.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>kwave</name>
   <summary>Sound Editor for KDE</summary>
   <description>
     <p>

@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">aqualung.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>aqualung</name>
   <summary>Music Player for GNU/Linux</summary>
   <description>
     <p>

@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">gxine.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>gxine</name>
   <summary>GTK frontend for the xine multimedia library</summary>
   <description>
     <p>

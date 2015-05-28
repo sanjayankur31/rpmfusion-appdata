@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">gambatte-qt.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>gambatte-qt</name>
   <summary>Qt4 Gambatte front-end</summary>
   <description>
     <p>

@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">lxdream.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>lxdream</name>
   <summary>Sega Dreamcast emulator</summary>
   <description>
     <p>

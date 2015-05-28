@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">amule.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>Amule</name>
   <summary>File sharing client compatible with eDonkey</summary>
   <description>
     <p>

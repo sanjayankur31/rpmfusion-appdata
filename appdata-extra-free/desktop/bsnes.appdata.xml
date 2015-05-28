@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">bsnes.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>bsnes</name>
   <summary>SNES emulator focused on accuracy</summary>
   <description>
     <p>

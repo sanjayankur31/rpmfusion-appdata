@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">audacity-freeworld.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>audacity-freeworld</name>
   <summary>Multitrack audio editor</summary>
   <description>
     <p>

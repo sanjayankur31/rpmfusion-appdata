@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">DVDAuthorWizard.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>DVDAuthorWizard</name>
   <summary>Create a video DVD from MPEG-2 files</summary>
   <description>
     <p>

@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">desmume.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>desmume</name>
   <summary>A Nintendo DS emulator</summary>
   <description>
     <p>

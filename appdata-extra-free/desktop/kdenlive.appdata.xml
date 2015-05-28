@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">kdenlive.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>kdenlive</name>
   <summary>A free and open-source video editor for GNU/Linux and FreeBSD</summary>
   <description>
     <p>

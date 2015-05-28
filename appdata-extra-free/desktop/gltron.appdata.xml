@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">gltron.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>gltron</name>
   <summary>A 3D game inspired by the movie TRON</summary>
   <description>
     <p>

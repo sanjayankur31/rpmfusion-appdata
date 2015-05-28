@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">rpmfusion-avidemux-qt.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>Avidemux qt</name>
   <summary>A free video editor designed for simple cutting, filtering and encoding tasks</summary>
   <description>
     <p>

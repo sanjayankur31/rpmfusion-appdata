@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">assaultcube.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>assaultcube</name>
   <summary>Total conversion of Cube first person shooter</summary>
   <description>
     <p>

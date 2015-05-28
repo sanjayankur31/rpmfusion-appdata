@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">mixxx.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>mixxx</name>
   <summary>Mixxx is open source software for DJ'ing</summary>
   <description>
     <p>

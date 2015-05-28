@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">guvcview.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>guvcview</name>
   <summary>GTK+ UVC Viewer and Capturer</summary>
   <description>
     <p>

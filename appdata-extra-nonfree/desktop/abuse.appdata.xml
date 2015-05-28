@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">abuse.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>abuse</name>
   <summary>The classic Crack-Dot-Com game</summary>
   <description>
     <p>

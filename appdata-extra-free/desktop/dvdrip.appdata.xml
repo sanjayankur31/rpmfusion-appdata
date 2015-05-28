@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">dvdrip.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>dvdrip</name>
   <summary>Graphical DVD ripping and encoding tool</summary>
   <description>
     <p>

@@ -9,7 +9,6 @@ SentUpstream: yyyy-mm-dd
 <application>
   <id type="desktop">bombono-dvd.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>bombono-dvd</name>
   <summary>DVD authoring program with nice and clean GUI</summary>
   <description>
       <p>
