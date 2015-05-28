@@ -62,7 +62,7 @@ D rpmfusion-free                           sonic-visualiser-freeworld
 D rpmfusion-free                           stella
 D rpmfusion-free                           terminatorX
 D rpmfusion-free                           traverso
-rpmfusion-free                           vagalume
+D rpmfusion-free                           vagalume
 rpmfusion-free                           vbam-gtk
 rpmfusion-free                           VirtualBox
 rpmfusion-free                           vlc

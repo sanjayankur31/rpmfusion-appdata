@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">vagalume.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Last.fm client for GNOME and Maemo</summary>
+    <description>
+        <p>
+            Vagalume is a Last.fm client written using GTK+. It should work on
+            any GNOME-based system, but it was originally designed work on
+            Maemo, the platform used by some Nokia devices such as the 770,
+            N800, N810 and N900.
+        </p>
+
+        <p>
+            Vagalume is free software released under the GNU GPL. It has been
+            developed and tested mainly on a desktop PC running Debian
+            GNU/Linux and on the Nokia N800/N810/N900 but it has been confirmed
+            to work in the Nokia 770 as well. Vagalume also works in
+            MeeGo-based devices and there is experimental support for MS
+            Windows.
+
+            Its main features are:
+        </p>
+        <ul>
+            <li>It plays Last.fm radio streams (using the v2.0 API)</li>
+            <li>It supports Libre.fm and other compatible servers</li>
+            <li>Support for different radio stations (personal, neighbours, loved tracks, ..., or any lastfm:// URL)</li>
+            <li>It supports marking tracks as loved or banned</li>
+            <li>It can tag artists, tracks and albums</li>
+            <li>It can send recommendations to other users</li>
+            <li>It can add tracks to your playlist</li>
+            <li>It can download free tracks to your hard disk</li>
+            <li>It scrobbles tracks so they appear in your Last.fm webpage (this can be disabled at runtime).</li>
+            <li>It sends Now Playing information following the Audioscrobbler Realtime Submission Protocol v1.2.</li>
+            <li>Supports discovery mode</li>
+            <li>Bookmarks</li>
+            <li>Remote control</li>
+            <li>Gettext support (translated into many languages)</li>
+        </ul>
+
+    </description>
+    <url type="homepage">http://vagalume.igalia.com/</url>
+    <screenshots>
+        <screenshot type="default">http://vagalume.igalia.com/vagalume-pc.png</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
