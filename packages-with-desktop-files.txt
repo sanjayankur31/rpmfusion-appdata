@@ -79,7 +79,7 @@ D rpmfusion-free                           yabause
 D rpmfusion-free                           zsnes
 D rpmfusion-nonfree                        abuse
 D rpmfusion-nonfree                        assaultcube
-rpmfusion-nonfree                        clipgrab
+D rpmfusion-nonfree                        clipgrab
 rpmfusion-nonfree                        d1x
 rpmfusion-nonfree                        doom-shareware
 rpmfusion-nonfree                        dropbox

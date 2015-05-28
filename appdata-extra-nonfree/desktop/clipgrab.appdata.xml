@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">clipgrab.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A free video downloader and converter</summary>
+  <description>
+    <p>
+        ClipGrab is a free downloader and converter for YouTube, Vimeo,
+        Metacafe, Dailymotion and many other online video sites.  It converts
+        downloaded videos to MPEG4, MP3 or other formats in just one easy step.
+    </p>
+  </description>
+  <url type="homepage">http://clipgrab.de/en</url>
+  <screenshots>
+    <screenshot type="default"></screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
