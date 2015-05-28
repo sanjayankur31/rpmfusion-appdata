@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">kwave.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>kwave</name>
+  <summary>Sound Editor for KDE</summary>
+  <description>
+    <p>
+         Kwave is a sound editor designed for the KDE Desktop Environment.
+         With Kwave you can record, play back, import and edit many sorts of
+         audio files including multi channel files.  Kwave includes some
+         plugins to transform audio files in several ways and presents a
+         graphical view with a complete zoom- and scroll capability. 
+
+         Features include:
+    </p>
+    <ul>
+
+        <li>Running on a large variety of platforms</li>
+        <li>Precompiled packages available for many distributions</li>
+        <li>Available for KDE-4</li>
+        <li>Documentation of the internal command / macro language and all plugins</li>
+        <li>GUI can be used in SDI, MDI or Tab mode</li>
+        <li>24 Bit Audio Support</li>
+        <li>Undo/Redo</li>
+        <li>Use of multicore CPUs (SMP, hyperthreading)</li>
+        <li>Simple Drag &amp; Drop</li>
+        <li>Realtime Pre-Listen for some effects</li>
+        <li>Support for multi-track files</li>
+        <li>Playback and recording via native ALSA, PulseAudio (or OSS, deprecated)</li>
+        <li>Playback via Phonon</li>
+        <li>Load and edit-capability for large files (can use virtual memory)</li>
+        <li>Reading and auto-repair of damaged wav-files</li>
+        <li>Supports multiple windows</li>
+        <li>Extendable Plugin interface</li>
+        <li>A nice splashscreen</li>
+        <li>Some label handling</li>
+
+    </ul>
+  </description>
+  <url type="homepage">http://kwave.sourceforge.net</url>
+  <screenshots>
+      <screenshot type="default">http://kwave.sourceforge.net/screenshot/kwave-gui-tab.png</screenshot>
+      <screenshot type="default">http://kwave.sourceforge.net/screenshot/kwave-gui-mdi.png</screenshot>
+      <screenshot type="default">http://kwave.sourceforge.net/screenshot/kwave-gui-sdi.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

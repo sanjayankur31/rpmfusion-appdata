@@ -35,7 +35,7 @@ D rpmfusion-free                           kmediafactory
 D rpmfusion-free                           kodi
 rpmfusion-free                           kodi
 D rpmfusion-free                           kplayer
-rpmfusion-free                           kwave
+D rpmfusion-free                           kwave
 rpmfusion-free                           ltris
 rpmfusion-free                           lxdream
 rpmfusion-free                           megamario
