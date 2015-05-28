@@ -94,10 +94,10 @@ I rpmfusion-nonfree                        lpf-spotify-client
 I rpmfusion-nonfree                        mari0
 D rpmfusion-nonfree                        meka
 I rpmfusion-nonfree                        netfabb-basic
-rpmfusion-nonfree                        openclonk
-rpmfusion-nonfree                        openclonk-devel-docs
-rpmfusion-nonfree                        pgadmin3
-rpmfusion-nonfree                        plus4emu
+A rpmfusion-nonfree                        openclonk
+X rpmfusion-nonfree                        openclonk-devel-docs
+I rpmfusion-nonfree                        pgadmin3
+D rpmfusion-nonfree                        plus4emu
 rpmfusion-nonfree                        pushover
 rpmfusion-nonfree                        pyskool
 D rpmfusion-nonfree                        roadfighter

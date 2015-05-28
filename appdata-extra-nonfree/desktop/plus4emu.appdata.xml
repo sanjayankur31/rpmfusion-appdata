@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">plus4emu.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>Portable emulator of the Commodore 264 family of computers</summary>
+    <description>
+        <p>
+            plus4emu is an open source, portable emulator of the Commodore 264
+            family of computers (C16, C116, and Plus/4), written in C++, and
+            supporting Windows and POSIX platforms (32 bit Windows, 32 and 64 bit
+            Linux, and MacOS X have been tested). It implements accurate, high
+            quality hardware emulation, however, the system requirements are higher
+            than that of most other emulators. 
+        </p>
+        <ul>
+
+            <li>Cycle exact emulation of the 7501/8501 CPU, with full support for all documented and undocumented opcodes</li>
+            <li>Cycle exact TED 7360/8360 emulation with very high level of compatibility, implements all documented video modes, PAL/NTSC mode switching, accurate sound emulation, as well as all known display artifacts; all registers can be read and written, and the internal operation and timing is reproduced with very good accuracy</li>
+            <li>RAM size can be 16, 32, 64, 256, or 1024 kilobytes (the latter two using the Hannes memory expansion)</li>
+            <li>Up to 8 16 kilobyte banks of ROM can be loaded from external image files; using custom ROM files for the emulated floppy drives and printer is also possible</li>
+            <li>Limited emulation of the ACIA 6551 registers</li>
+            <li>tape emulation with playback, recording, and setting tape position; markers can be created for quick positioning to specific tape locations (useful for tapes with multiple files).</li>
+            <li>Uses custom file format which is PCM audio data with 1 to 8 bits of sample resolution and variable sample rate, and header including the table of markers.</li>
+            <li>There is also limited (read only) support for the commonly used MTAP file format, as well as read-write (although without markers) support for sound files like WAV, AIFF, etc.</li>
+            <li>Hardware level emulation of the 1541, 1551, and 1581 floppy disk drives, with support for D64 and D81 files; compatibility with 1541 and 1551 fast loaders is fairly good in recent versions of the emulator</li>
+            <li>IEC level 1551 floppy drive emulation for accessing .PRG, .P00, .R00, .S00, and .U00 files on the PC filesystem; this also supports the C, I, N, P, R, S, and V DOS commands</li>
+            <li>Light pen emulation (compatible with the Trojan Light Pen software)</li>
+            <li>IEC level MPS-801 printer emulation</li>
+            <li>Hardware level 1526/MPS-802 printer emulation</li>
+            <li>Load and automatically start .PRG, .P00, .D64, .D81, or .TAP file on start-up</li>
+            <li>.PRG, .P00, .D64, and .D81 files can be associated with plus4emu on Windows</li>
+            <li>SID chip (MOS 6581 and 8580) emulation using version 0.16 of the reSID library written by Dag Lem; the Digi-Blaster expansion by Solder is also supported</li>
+
+        </ul>
+    </description>
+    <url type="homepage">http://plus4emu.sourceforge.net</url>
+    <screenshots>
+        <screenshot type="default">http://a.fsdn.com/con/app/proj/plus4emu/screenshots/173907.jpg</screenshot>
+        <screenshot type="default">http://a.fsdn.com/con/app/proj/plus4emu/screenshots/173911.jpg</screenshot>
+        <screenshot type="default">http://a.fsdn.com/con/app/proj/plus4emu/screenshots/173909.jpg</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
