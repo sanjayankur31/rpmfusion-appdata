@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">xine.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>A skinned xlib-based gui for xine-lib</summary>
+    <description>
+        <p>
+            xine-ui is the traditional, skinned GUI for xine-lib.
+        </p>
+        <p>
+            xine is a free (gpl-licensed) high-performance, portable and reusable
+            multimedia playback engine. xine itself is a shared library with an easy to
+            use, yet powerful API which is used by many applications for smooth video
+            playback and video processing purposes.  
+        </p>
+    </description>
+    <url type="homepage">http://www.xine-project.org/</url>
+    <screenshots>
+        <screenshot type="default">http://www.xine-project.org/images/news/capture6.png</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

@@ -69,7 +69,7 @@ D rpmfusion-free                           vlc
 D rpmfusion-free                           vokoscreen
 D rpmfusion-free                           wormsofprey
 D rpmfusion-free                           xbill
-rpmfusion-free                           xine-ui
+D rpmfusion-free                           xine-ui
 rpmfusion-free                           xmris
 rpmfusion-free                           xmris-editor
 rpmfusion-free                           xroar
