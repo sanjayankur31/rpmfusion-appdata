@@ -58,7 +58,7 @@ D rpmfusion-free                           qarte
 D rpmfusion-free                           SheepShaver
 D rpmfusion-free                           smc
 D rpmfusion-free                           smplayer
-rpmfusion-free                           sonic-visualiser-freeworld
+D rpmfusion-free                           sonic-visualiser-freeworld
 rpmfusion-free                           stella
 rpmfusion-free                           terminatorX
 rpmfusion-free                           traverso

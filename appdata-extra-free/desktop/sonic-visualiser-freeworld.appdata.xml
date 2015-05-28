@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">sonic-visualiser-freeworld.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A program for viewing and exploring audio data</summary>
+  <description>
+    <p>
+        The aim of Sonic Visualiser is to be the first program you reach for
+        when want to study a musical recording rather than simply listen to it.
+    </p>
+
+    <p>
+        The aim of Sonic Visualiser is to be the first program you reach for
+        We hope Sonic Visualiser will be of particular interest to
+        musicologists, archivists, signal-processing researchers and anyone
+        else looking for a friendly way to take a look at what lies inside the
+        audio file.
+    </p>
+
+    <p>
+        The aim of Sonic Visualiser is to be the first program you reach for
+        Sonic Visualiser is Free Software, distributed under the GNU General
+        Public License (v2 or later) and available for Linux, OS/X, and
+        Windows. It was developed at the Centre for Digital Music at Queen
+        Mary, University of London. 
+
+        It contains features for the following:
+    </p>
+    <ul>
+        <li>Load audio files in WAV, Ogg and MP3 formats, and view their waveforms</li>
+        <li>Look at audio visualisations such as spectrogram views, with interactive adjustment of display parameters</li>
+        <li>Annotate audio data by adding labelled time points and defining segments, point values and curves</li>
+        <li>Overlay annotations on top of one another with aligned scales, and overlay annotations on top of waveform or spectrogram views</li>
+        <li>View the same data at multiple time resolutions simultaneously (for close-up and overview)</li>
+        <li>Run feature-extraction plugins to calculate annotations automatically, using algorithms such as beat trackers, pitch detectors and so on</li>
+        <li>Import annotation layers from various text file formats</li>
+        <li>Import note data from MIDI files, view it alongside other frequency scales, and play it with the original audio</li>
+        <li>Play back the audio plus synthesised annotations, taking care to synchronise playback with display</li>
+        <li>Select areas of interest, optionally snapping to nearby feature locations, and audition individual and comparative selections in seamless loops</li>
+        <li>Time-stretch playback, slowing right down or speeding up to a tiny fraction or huge multiple of the original speed while retaining a synchronised display</li>
+        <li>Export audio regions and annotation layers to external files</li>
+    </ul>
+  </description>
+  <url type="homepage">http://www.sonicvisualiser.org/</url>
+  <screenshots>
+      <screenshot type="default">http://www.sonicvisualiser.org/images/sv-1.0-notetracker.png</screenshot>
+      <screenshot type="default">http://www.sonicvisualiser.org/images/sv-1.0-wide.png</screenshot>
+      <screenshot type="default">http://www.sonicvisualiser.org/images/sv-1.0-ru.png</screenshot>
+      <screenshot type="default">http://www.sonicvisualiser.org/images/sv2-thumb.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
