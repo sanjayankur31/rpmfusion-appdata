@@ -31,10 +31,10 @@ D rpmfusion-free                           imagination
 D rpmfusion-free                           k9copy
 D rpmfusion-free                           kaffeine
 D rpmfusion-free                           kdenlive
-rpmfusion-free                           kmediafactory
+D rpmfusion-free                           kmediafactory
 D rpmfusion-free                           kodi
 rpmfusion-free                           kodi
-rpmfusion-free                           kplayer
+D rpmfusion-free                           kplayer
 rpmfusion-free                           kwave
 rpmfusion-free                           ltris
 rpmfusion-free                           lxdream

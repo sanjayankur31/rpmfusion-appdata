@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+    <id type="desktop">kplayer.desktop</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <name>kplayer</name>
+    <summary>A media player based on MPlayer</summary>
+    <description>
+        <p>
+            KPlayer is a KDE multimedia player. With KPlayer you can easily play a
+            wide variety of video and audio files and streams using a rich and
+            friendly interface that follows KDE standards.
+
+            Features include:
+        </p>
+        <ul>
+
+            <li>Video, audio and subtitle playback from file, URL, DVD, VCD, audio CD, TV, DVB, and KDE I/O Slaves</li>
+            <li>Volume, contrast, brightness, hue and saturation controls</li>
+            <li>Zooming, full screen and fixed aspect options</li>
+            <li>Status and progress display and seeking</li>
+            <li>Multimedia library to organize your media files and streams</li>
+            <li>Configuration dialog</li>
+            <li>File properties for setting file specific options</li>
+        </ul>
+
+    </description>
+    <url type="homepage">http://kplayer.sourceforge.net/</url>
+    <screenshots>
+        <screenshot type="default">http://kplayer.sourceforge.net/screen02.png</screenshot>
+        <screenshot type="default">http://kplayer.sourceforge.net/screen46.png</screenshot>
+        <screenshot type="default">http://kplayer.sourceforge.net/screen24.png</screenshot>
+    </screenshots>
+    <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+
