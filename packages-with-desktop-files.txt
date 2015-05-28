@@ -40,7 +40,7 @@ D rpmfusion-free                           ltris
 D rpmfusion-free                           lxdream
 D rpmfusion-free                           megamario
 D rpmfusion-free                           minitube
-rpmfusion-free                           mixxx
+D rpmfusion-free                           mixxx
 rpmfusion-free                           mplayer-gui
 rpmfusion-free                           mpv
 rpmfusion-free                           mythtv-frontend

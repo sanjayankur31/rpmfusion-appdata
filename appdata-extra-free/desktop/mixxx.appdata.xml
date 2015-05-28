@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">mixxx.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>mixxx</name>
+  <summary>Mixxx is open source software for DJ'ing</summary>
+  <description>
+    <p>
+        Mixxx has everything you need to start making DJ mixes in a tight,
+        integrated package. Whether you're DJing your next house party,
+        spinning at a club, or broadcasting as a radio DJ, Mixxx has what you
+        need to do it right. 
+    </p>
+    <ul>
+        <li>iTunes integration</li>
+        <li>DJ MIDI controller support</li>
+        <li>BPM detection and sync</li>
+        <li>Powerful mixing engine</li>
+    </ul>
+  </description>
+  <url type="homepage">http://www.mixxx.org</url>
+  <screenshots>
+      <screenshot type="default">http://www.mixxx.org/static/images/press_art/mixxx_1110_default_deere_skin.png</screenshot>
+      <screenshot type="default">http://www.mixxx.org/static/images/press_art/mixxx_1110_latenightblues_skin.png</screenshot>
+      <screenshot type="default">http://www.mixxx.org/static/images/press_art/mixxx_1110_shade_skin.png</screenshot>
+  </screenshots>
+  <updatecontact>adamd@mixxx.org</updatecontact>
+</application>
+
