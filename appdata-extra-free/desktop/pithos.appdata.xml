@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Ankur Sinha <ankursinha AT fedoraproject DOT org> -->
+
+<!-- HOUSEKEEPING, REMOVE THIS COMMENT WHEN THIS GOES UPSTREAM
+BugReportURL: rhbz-#
+SentUpstream: yyyy-mm-dd
+-->
+
+<application>
+  <id type="desktop">pithos.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>A Pandora client for the GNOME Desktop</summary>
+  <description>
+    <p>
+        Pithos is a native Pandora Radio client for Linux. It’s much more
+        lightweight than the Pandora.com web client, and integrates with
+        desktop features such as media keys, notifications, and the sound menu.
+    </p>
+
+    <p>
+        Features:
+    </p>
+    <ul>
+        <li>Play / Pause / Next Song</li>
+        <li>Switching stations</li>
+        <li>Remembering user name and password</li>
+        <li>Cover Art</li>
+        <li>Thumbs Up / Thumbs Down / Tired of this song</li>
+        <li>Notification popup with song info</li>
+        <li>Launching pandora.com song info page and station page</li>
+        <li>Reconnecting when pandora session times out</li>
+        <li>Editing QuickMix</li>
+        <li>Creating stations</li>
+        <li>Media Key support</li>
+        <li>Proxy support</li>
+        <li>Last.fm scrobbling</li>
+    </ul>
+  </description>
+  <url type="homepage">http://pithos.github.io/</url>
+  <screenshots>
+      <screenshot type="default">http://pithos.github.io/img/screenshot1.0.png</screenshot>
+  </screenshots>
+  <!-- FIXME: change this to an upstream email address for spec updates
+  <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
+   -->
+</application>
+

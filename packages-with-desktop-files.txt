@@ -52,7 +52,7 @@ D rpmfusion-free                           osmose
 D rpmfusion-free                           oxine
 D rpmfusion-free                           pangzero
 D rpmfusion-free                           pcsxr
-rpmfusion-free                           pithos
+D rpmfusion-free                           pithos
 rpmfusion-free                           ProjectX
 rpmfusion-free                           qarte
 rpmfusion-free                           SheepShaver
